@@ -36,6 +36,9 @@ TAGS
 lib_managed
 logs
 project/boot/*
+project/target/*
+target/*
+bin/*
 project/plugins/project
 src_managed
 target
