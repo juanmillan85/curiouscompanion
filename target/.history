@@ -1,0 +1,13 @@
+eclipse
+project curiouscompanion
+name :=curiouscompanion
+name := "curiouscompanion"
+name := ("curiouscompanion")
+name. := ("curiouscompanion")
+name.:= ("curiouscompanion")
+eclipse
+xit
+exit
+eclipse
+re-start
+exit

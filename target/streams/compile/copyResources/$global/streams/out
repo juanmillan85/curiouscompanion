@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\JuanDavid\scala\curiouscompanion\src\main\resources\application.conf,C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\JuanDavid\scala\curiouscompanion\src\main\resources\web,C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\web)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\JuanDavid\scala\curiouscompanion\src\main\resources\web\frontend-fastopt.js,C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\web\frontend-fastopt.js)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\JuanDavid\scala\curiouscompanion\src\main\resources\web\frontend-launcher.js,C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\web\frontend-launcher.js)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\JuanDavid\scala\curiouscompanion\src\main\resources\web\index.html,C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\web\index.html)[0m

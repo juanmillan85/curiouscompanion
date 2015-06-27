@@ -1,0 +1,823 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes
+compile options:
+9 items
+0 -> -deprecation
+1 -> -encoding
+2 -> UTF-8
+3 -> -feature
+4 -> -target:jvm-1.8
+5 -> -unchecked
+6 -> -Ywarn-adapted-args
+7 -> -Ywarn-value-discard
+8 -> -Xlint
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+68 items
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\app\Boot$$anonfun$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\app\Boot$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\app\Boot$delayedInit$body.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\app\Boot.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anon$1$$anonfun$clientFlow$1$$anonfun$apply$1$$anonfun$2.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anon$1$$anonfun$clientFlow$1$$anonfun$apply$1$$anonfun$apply$2.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anon$1$$anonfun$clientFlow$1$$anonfun$apply$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anon$1$$anonfun$clientFlow$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anon$1$$anonfun$clientFlow$2.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anon$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anonfun$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$dispatch$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$dispatchAll$1$$anonfun$apply$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$dispatchAll$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$receive$1$$anonfun$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$receive$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\NotifierActor$$anonfun$preStart$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\NotifierActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\NotifierActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\NotifierActor$$anonfun$receive$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\NotifierActor.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientMessage$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientMessage.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$ClientEvent.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$NewParticipant$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$NewParticipant.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$ParticipantLeft$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$ParticipantLeft.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$ReceivedMessage$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$ReceivedMessage.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\Notification$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\Notification.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\Notifier$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\Notifier.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$NextEvent$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$NextEvent.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$NotifierEvent.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$OK$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$RequestEvent$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$RequestEvent.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$SubscriptionEvent$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$SubscriptionEvent.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$UnsubscribeEvent$.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$UnsubscribeEvent.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\NotificationService$$anonfun$1$$anonfun$2.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\NotificationService$$anonfun$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\NotificationService.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$reportErrorsFlow$1$$anon$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$reportErrorsFlow$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$route$1$$anonfun$apply$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$route$1$$anonfun$apply$2.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$route$1$$anonfun$apply$3.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$route$1$$anonfun$apply$4$$anonfun$apply$5.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$route$1$$anonfun$apply$4.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$route$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$websocketChatFlow$1.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$websocketChatFlow$2.class
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice.class
+binary dependencies:
+29 items
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Program Files (x86)\Java\jre1.8.0_31\lib\rt.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.11.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-http-core-experimental_2.11\jars\akka-http-core-experimental_2.11-1.0-RC3.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-http-experimental_2.11\jars\akka-http-experimental_2.11-1.0-RC3.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-stream-experimental_2.11\jars\akka-stream-experimental_2.11-1.0-RC3.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Users\JuanDavid\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Program Files (x86)\Java\jre1.8.0_31\lib\rt.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.11.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-stream-experimental_2.11\jars\akka-stream-experimental_2.11-1.0-RC3.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> C:\Program Files (x86)\Java\jre1.8.0_31\lib\rt.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.11.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> C:\Users\JuanDavid\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> C:\Program Files (x86)\Java\jre1.8.0_31\lib\rt.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.11.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> C:\Users\JuanDavid\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Program Files (x86)\Java\jre1.8.0_31\lib\rt.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.11.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> C:\Users\JuanDavid\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> C:\Program Files (x86)\Java\jre1.8.0_31\lib\rt.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.11.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> C:\Users\JuanDavid\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Program Files (x86)\Java\jre1.8.0_31\lib\rt.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.11.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-http-core-experimental_2.11\jars\akka-http-core-experimental_2.11-1.0-RC3.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-http-experimental_2.11\jars\akka-http-experimental_2.11-1.0-RC3.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-stream-experimental_2.11\jars\akka-stream-experimental_2.11-1.0-RC3.jar
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+9 items
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+68 items
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> curiouscompanion.app.Boot
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> curiouscompanion.app.Boot$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> curiouscompanion.app.Boot$$anonfun$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> curiouscompanion.app.Boot$delayedInit$body
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> curiouscompanion.common.Client
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> curiouscompanion.common.Client$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> curiouscompanion.common.Client$$anon$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> curiouscompanion.common.Client$$anon$1$$anonfun$clientFlow$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> curiouscompanion.common.Client$$anon$1$$anonfun$clientFlow$1$$anonfun$apply$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> curiouscompanion.common.Client$$anon$1$$anonfun$clientFlow$1$$anonfun$apply$1$$anonfun$2
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> curiouscompanion.common.Client$$anon$1$$anonfun$clientFlow$1$$anonfun$apply$1$$anonfun$apply$2
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> curiouscompanion.common.Client$$anon$1$$anonfun$clientFlow$2
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> curiouscompanion.common.Client$$anonfun$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> curiouscompanion.common.ClientActor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> curiouscompanion.common.ClientActor$$anonfun$dispatch$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> curiouscompanion.common.ClientActor$$anonfun$dispatchAll$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> curiouscompanion.common.ClientActor$$anonfun$dispatchAll$1$$anonfun$apply$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> curiouscompanion.common.ClientActor$$anonfun$receive$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> curiouscompanion.common.ClientActor$$anonfun$receive$1$$anonfun$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> curiouscompanion.common.ClientActor$$anonfun$receive$1$$anonfun$applyOrElse$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> curiouscompanion.common.ClientActor$$anonfun$receive$1$$anonfun$applyOrElse$2
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> curiouscompanion.common.NotifierActor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> curiouscompanion.common.NotifierActor$$anonfun$preStart$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> curiouscompanion.common.NotifierActor$$anonfun$receive$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> curiouscompanion.common.NotifierActor$$anonfun$receive$1$$anonfun$applyOrElse$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> curiouscompanion.common.NotifierActor$$anonfun$receive$1$$anonfun$applyOrElse$2
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.ClientMessage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.ClientMessage$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.ClientProtocol
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.ClientProtocol$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.ClientProtocol$ClientEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.ClientProtocol$NewParticipant
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.ClientProtocol$NewParticipant$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.ClientProtocol$ParticipantLeft
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.ClientProtocol$ParticipantLeft$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.ClientProtocol$ReceivedMessage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.ClientProtocol$ReceivedMessage$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.Notification
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.Notification$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.Notifier
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.Notifier$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.NotifierProtocol
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.NotifierProtocol$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.NotifierProtocol$NextEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.NotifierProtocol$NextEvent$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.NotifierProtocol$NotifierEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.NotifierProtocol$OK$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.NotifierProtocol$RequestEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.NotifierProtocol$RequestEvent$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.NotifierProtocol$SubscriptionEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.NotifierProtocol$SubscriptionEvent$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.NotifierProtocol$UnsubscribeEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion.model.NotifierProtocol$UnsubscribeEvent$
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> curiouscompanion.service.NotificationService
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> curiouscompanion.service.NotificationService$$anonfun$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> curiouscompanion.service.NotificationService$$anonfun$1$$anonfun$2
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion.service.Webservice
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion.service.Webservice$$anonfun$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion.service.Webservice$$anonfun$reportErrorsFlow$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion.service.Webservice$$anonfun$reportErrorsFlow$1$$anon$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion.service.Webservice$$anonfun$route$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion.service.Webservice$$anonfun$route$1$$anonfun$apply$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion.service.Webservice$$anonfun$route$1$$anonfun$apply$2
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion.service.Webservice$$anonfun$route$1$$anonfun$apply$3
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion.service.Webservice$$anonfun$route$1$$anonfun$apply$4
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion.service.Webservice$$anonfun$route$1$$anonfun$apply$4$$anonfun$apply$5
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion.service.Webservice$$anonfun$websocketChatFlow$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion.service.Webservice$$anonfun$websocketChatFlow$2
+used names:
+462 items
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> <init>
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> ActorFlowMaterializer
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> ActorSystem
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> App
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> Boot
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> Failure
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> Http
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> NotificationService
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> Predef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> RouteResult
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> RoutingLog
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> RoutingSettings
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> RoutingSetup
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> StringContext
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> Success
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> Webservice
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> actor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> akka
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> app
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> apply
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> asInstanceOf
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> bindAndHandle
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> binding
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> config
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> curiouscompanion
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> default
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> dispatcher
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> e
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> exception
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> fromActorSystem
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> getHostName
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> getInt
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> getMessage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> getNotifiers
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> getPort
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> getString
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> http
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> interface
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> isInstanceOf
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> localAddress
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> materializer
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> notiService
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> notifiers
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> onComplete
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> port
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> println
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> qual$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> route
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> route2HandlerFlow
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> s
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> scaladsl
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> server
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> service
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> settings
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> shutdown
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> stream
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> system
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> util
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> value
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$10
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$11
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$12
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$13
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$14
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$15
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$16
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$17
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$18
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$19
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$20
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$7
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$8
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> x$9
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> !
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> $anon
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> <init>
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> ActorRef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> ActorSystem
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> AnyRef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> ClassTag
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> Client
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> ClientActor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> ClientActorIn
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> ClientActorOut
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> ClientEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> ClientInSink
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> ClientMessage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> ClientOutSource
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> ClientProtocol
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> Flow
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> FlowGraph
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> Implicits
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> Keep
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> LoggingReceive
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> Map
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> Merge
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> OverflowStrategy
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> Predef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> Props
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> Sink
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> Source
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> String
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> Unit
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> actor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> actorOf
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> actorRef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> actorRef2Scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> add
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> akka
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> apply
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> b
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> common
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> curiouscompanion
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> enveloper
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> event
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> fail
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> flow2flow
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> in
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> inlet
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> map
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> mapMaterializedValue
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> materializeClassTag
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> materializedValue
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> merge
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> message
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> model
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> notifiers
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> outlet
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> package
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> port2flow
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> qual$1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> right
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> scaladsl
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> sender
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> stream
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> system
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> x$4
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> x$5
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> ~>
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> !
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> +
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> -
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> ->
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> <init>
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> A1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> Actor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> ActorLogging
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> ActorRef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> B1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> ClientActor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> ClientMessage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> ClientProtocol
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> Function1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> LoggingReceive
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> Map
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> Notification
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> NotifierProtocol
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> Predef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> Receive
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> Set
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> String
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> StringContext
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> Terminated
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> Unit
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> _2
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> actor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> actorRef2Scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> akka
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> apply
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> asInstanceOf
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> common
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> context
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> curiouscompanion
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> dispatch
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> dispatchAll
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> effect
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> empty
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> event
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> foreach
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> getOrElse
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> isInstanceOf
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> location
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> message
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> model
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> msg
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> name
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> ne
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> node
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> notifiers
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> package
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> person
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> refs
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> s
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> self
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> sendAdminMessage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> sub
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> subscriber
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> subscribers
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> subscribers_=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> toClientMessage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> topic
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> topic_=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> unchecked
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> watch
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> !
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> <init>
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> A1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> Actor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> ActorRef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> B1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> Function1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> LogSource
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> Logging
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> LoggingReceive
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> Notification
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> Notifier
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> NotifierActor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> NotifierProtocol
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> Predef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> Receive
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> Seq
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> String
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> Unit
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> actor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> actorRef2Scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> akka
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> apply
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> asInstanceOf
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> common
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> concurrent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> context
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> curiouscompanion
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> currentState
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> dispatcher
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> duration
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> event
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> foreach
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> fromActor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> isInstanceOf
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> log
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> model
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> ne
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> package
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> scheduleOnce
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> scheduler
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> seconds
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> self
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> subscriber
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> subscribers
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> system
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> that
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> topic
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> unchecked
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> x
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> &&
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> <init>
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> ==
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> AbstractFunction0
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> AbstractFunction1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> AbstractFunction2
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> AbstractFunction5
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> ActorRef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> AnyRef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> ClientEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> ClientMessage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> ClientProtocol
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> Long
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> NewParticipant
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> NextEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> None
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> Notification
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> Notifier
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> NotifierEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> NotifierProtocol
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> OK
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> ParticipantLeft
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> Predef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> Product
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> ReceivedMessage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> RequestEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> ScalaRunTime
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> Seq
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> Serializable
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> Statics
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> String
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> SubscriptionEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> UnsubscribeEvent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> _hashCode
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> _toString
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> actor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> akka
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> anyHash
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> asInstanceOf
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> curiouscompanion
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> effect
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> eq
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> finalizeHash
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> isInstanceOf
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> location
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> longHash
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> message
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> mix
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> model
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> name
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> package
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> ref
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> runtime
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> sender
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> subscriber
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> subscribers
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> time
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> toString
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> topic
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> typedProductIterator
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> ||
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> +
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> ->
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> <init>
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> ActorRef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> ActorSystem
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> AnyRef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> ClassTag
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> List
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> Map
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> NotificationService
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> NotifierActor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> Predef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> Props
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> Seq
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> String
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> actor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> actorOf
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> akka
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> apply
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> collection
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> common
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> curiouscompanion
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> empty
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> foreach
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> getNotifiers
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> immutable
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> materializeClassTag
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> notificationRouter
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> notificationRouter_=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> package
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> ref
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> service
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> system
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> topic
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> topics
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> $anon
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> <init>
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> A1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> ActorRef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> ActorSystem
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> ApplyConverter
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> B1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Client
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> ContentTypeResolver
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Context
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Date
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Default
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Directive
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Directives
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Flow
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> FlowMaterializer
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Function1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Map
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Message
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> ParamDef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> ParamMagnet
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> ParameterDirectives
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Predef
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> PushStage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Sink
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Source
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> String
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> StringContext
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Symbol
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> SyncDirective
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> T
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> TerminationDirective
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> TextMessage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Throwable
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Unit
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Unmarshaller
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> Webservice
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> actor
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> addByNameNullaryApply
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> addDirectiveApply
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> akka
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> apply
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> asInstanceOf
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> cause
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> clientFlow
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> collect
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> common
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> concurrent
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> create
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> ctx
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> curiouscompanion
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> directives
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> dispatcher
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> duration
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> elem
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> enhanceRouteWithConcatenation
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> forSymbol
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> get
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> getFromResource
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> getFromResourceDirectory
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> hac1
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> handleWebsocketMessages
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> http
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> identityUnmarshaller
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> injectMessage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> isInstanceOf
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> java
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> map
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> message
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> model
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> msg
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> name
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> ne
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> notifiers
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> onUpstreamFailure
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> package
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> parameter
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> path
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> pathSingleSlash
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> println
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> push
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> reportErrorsFlow
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> s
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> scala
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> scaladsl
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> schedule
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> scheduler
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> seconds
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> segmentStringToPathMatcher
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> sender
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> server
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> service
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> stage
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> stream
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> system
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> text
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> theChat
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> toString
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> transform
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> unchecked
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> unmarshalling
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> util
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> via
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> websocketChatFlow
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> ws
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> ~
+product stamps:
+68 items
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\app\Boot$$anonfun$1.class -> lastModified(1435354265265)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\app\Boot$.class -> lastModified(1435354265251)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\app\Boot$delayedInit$body.class -> lastModified(1435354265270)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\app\Boot.class -> lastModified(1435354265160)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anon$1$$anonfun$clientFlow$1$$anonfun$apply$1$$anonfun$2.class -> lastModified(1435354265335)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anon$1$$anonfun$clientFlow$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1435354265342)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anon$1$$anonfun$clientFlow$1$$anonfun$apply$1.class -> lastModified(1435354265323)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anon$1$$anonfun$clientFlow$1.class -> lastModified(1435354265312)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anon$1$$anonfun$clientFlow$2.class -> lastModified(1435354265347)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anon$1.class -> lastModified(1435354265306)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$$anonfun$1.class -> lastModified(1435354265353)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client$.class -> lastModified(1435354265285)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\Client.class -> lastModified(1435354265277)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$dispatch$1.class -> lastModified(1435354265379)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$dispatchAll$1$$anonfun$apply$1.class -> lastModified(1435354265392)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$dispatchAll$1.class -> lastModified(1435354265386)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$receive$1$$anonfun$1.class -> lastModified(1435354265449)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1435354265454)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class -> lastModified(1435354265460)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor$$anonfun$receive$1.class -> lastModified(1435354265411)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\ClientActor.class -> lastModified(1435354265374)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\NotifierActor$$anonfun$preStart$1.class -> lastModified(1435354265479)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\NotifierActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1435354265498)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\NotifierActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class -> lastModified(1435354265504)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\NotifierActor$$anonfun$receive$1.class -> lastModified(1435354265490)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\common\NotifierActor.class -> lastModified(1435354265473)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientMessage$.class -> lastModified(1435354265527)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientMessage.class -> lastModified(1435354265522)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$.class -> lastModified(1435354265540)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$ClientEvent.class -> lastModified(1435354265544)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$NewParticipant$.class -> lastModified(1435354265550)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$NewParticipant.class -> lastModified(1435354265565)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$ParticipantLeft$.class -> lastModified(1435354265580)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$ParticipantLeft.class -> lastModified(1435354265574)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$ReceivedMessage$.class -> lastModified(1435354265602)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol$ReceivedMessage.class -> lastModified(1435354265590)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\ClientProtocol.class -> lastModified(1435354265537)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\Notification$.class -> lastModified(1435354265610)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\Notification.class -> lastModified(1435354265623)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\Notifier$.class -> lastModified(1435354265641)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\Notifier.class -> lastModified(1435354265635)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$.class -> lastModified(1435354265649)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$NextEvent$.class -> lastModified(1435354265655)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$NextEvent.class -> lastModified(1435354265662)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$NotifierEvent.class -> lastModified(1435354265665)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$OK$.class -> lastModified(1435354265671)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$RequestEvent$.class -> lastModified(1435354265685)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$RequestEvent.class -> lastModified(1435354265680)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$SubscriptionEvent$.class -> lastModified(1435354265692)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$SubscriptionEvent.class -> lastModified(1435354265701)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$UnsubscribeEvent$.class -> lastModified(1435354265709)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol$UnsubscribeEvent.class -> lastModified(1435354265717)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\model\NotifierProtocol.class -> lastModified(1435354265646)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\NotificationService$$anonfun$1$$anonfun$2.class -> lastModified(1435354265734)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\NotificationService$$anonfun$1.class -> lastModified(1435354265729)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\NotificationService.class -> lastModified(1435354265724)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$1.class -> lastModified(1435354265856)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$reportErrorsFlow$1$$anon$1.class -> lastModified(1435354265866)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$reportErrorsFlow$1.class -> lastModified(1435354265861)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$route$1$$anonfun$apply$1.class -> lastModified(1435354265876)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$route$1$$anonfun$apply$2.class -> lastModified(1435354265881)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$route$1$$anonfun$apply$3.class -> lastModified(1435354265887)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$route$1$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1435354265897)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$route$1$$anonfun$apply$4.class -> lastModified(1435354265892)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$route$1.class -> lastModified(1435354265871)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$websocketChatFlow$1.class -> lastModified(1435354265902)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice$$anonfun$websocketChatFlow$2.class -> lastModified(1435354265907)
+C:\Users\JuanDavid\scala\curiouscompanion\target\scala-2.11\classes\curiouscompanion\service\Webservice.class -> lastModified(1435354265851)
+source stamps:
+7 items
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> hash(98153c299a8a952f5f6ee76220493f87aee68f69)
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> hash(b265f535feb8ce90c2079cc19a53f0c640530a87)
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> hash(81683016de110305af571404159a2ed12b0390d9)
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> hash(070ee0967dd344b8b1ee424537e87e0c077c1d9b)
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> hash(ca6fc30a5d271350c44dfc309989fa8fd9af0ce1)
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> hash(a266af348f705dc41da39b6f2a35735d942a5631)
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> hash(6349321d71b7b778d1910800483ee100176e1cb2)
+binary stamps:
+7 items
+C:\Program Files (x86)\Java\jre1.8.0_31\lib\rt.jar -> lastModified(1422659512053)
+C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.11.jar -> lastModified(1431096334000)
+C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-http-core-experimental_2.11\jars\akka-http-core-experimental_2.11-1.0-RC3.jar -> lastModified(1432304105000)
+C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-http-experimental_2.11\jars\akka-http-experimental_2.11-1.0-RC3.jar -> lastModified(1432304144000)
+C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-stream-experimental_2.11\jars\akka-stream-experimental_2.11-1.0-RC3.jar -> lastModified(1432304055000)
+C:\Users\JuanDavid\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> lastModified(1399042454000)
+C:\Users\JuanDavid\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> lastModified(1424912463000)
+class names:
+7 items
+C:\Program Files (x86)\Java\jre1.8.0_31\lib\rt.jar -> java.lang.Object
+C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.11.jar -> akka.actor.ActorRef
+C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-http-core-experimental_2.11\jars\akka-http-core-experimental_2.11-1.0-RC3.jar -> akka.http.scaladsl.model.ws.Message
+C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-http-experimental_2.11\jars\akka-http-experimental_2.11-1.0-RC3.jar -> akka.http.scaladsl.server.Directives
+C:\Users\JuanDavid\.ivy2\cache\com.typesafe.akka\akka-stream-experimental_2.11\jars\akka-stream-experimental_2.11-1.0-RC3.jar -> akka.stream.stage.PushStage
+C:\Users\JuanDavid\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> com.typesafe.config.Config
+C:\Users\JuanDavid\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> scala.Serializable
+internal apis:
+7 items
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCEFfo9AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmzG2Q3QADG1hdGVyaWFsaXplcnNxAH4ACziZv0B0AAlub3RpZmllcnNzcQB+AAuyskVTdAAGc3lzdGVtdXEAfgAJAAAAHnNxAH4AC6zElOh0AAZub3RpZnlzcQB+AAsYLn2odAAHYmluZGluZ3NxAH4AC9IefUd0AAR3YWl0c3EAfgALhE2bO3QADSRhc0luc3RhbmNlT2ZzcQB+AAu2/uPcdAALbm90aVNlcnZpY2VzcQB+AAt34+xBdAAEQm9vdHNxAH4ACyH3UZJ0AAZlcXVhbHNzcQB+AAsKH+G0dAAMYXNJbnN0YW5jZU9mc3EAfgAL+xE03nQADmV4ZWN1dGlvblN0YXJ0c3EAfgALW604hHQACWludGVyZmFjZXNxAH4AC9KXZgh0AAxzeW5jaHJvbml6ZWRzcQB+AAtARzjKdAANJGlzSW5zdGFuY2VPZnNxAH4AC1NcSld0AAZjb25maWdzcQB+AAtUI86udAAEbWFpbnNxAH4AC+hXQVV0AAdzZXJ2aWNlc3EAfgALVhegH3QACW5vdGlmeUFsbHNxAH4AC7aH+hN0AAxpc0luc3RhbmNlT2ZzcQB+AAuQ4VhXdAAEcG9ydHNxAH4AC5FPSYh0AAI9PXNxAH4AC3JZC/10AAVjbG9uZXNxAH4ACxbWTHl0AAh0b1N0cmluZ3NxAH4AC/3dnWt0AARhcmdzc3EAfgALeGye+3QAAiE9c3EAfgALr1qIjHQACGdldENsYXNzc3EAfgALEMbvPnQAAm5lc3EAfgAL3thItHQAAmVxc3EAfgALBGEgInQAC2RlbGF5ZWRJbml0c3EAfgALu5gIpHQAAiMjc3EAfgALigso+HQACGZpbmFsaXplc3EAfgALKPaDBXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AWXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAGWN1cmlvdXNjb21wYW5pb24uYXBwLkJvb3R1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB0eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBzAHBzcQB+AHhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AWUwACWluaGVyaXRlZHEAfgBZTAAHcGFyZW50c3EAfgBZeHEAfgB8c3EAfgBzAHBzcQB+AHh1cQB+AFQAAAAAc3EAfgBzAHBzcQB+AHh1cQB+AFQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFpxAH4AY3VxAH4AZAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AIl4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ae3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCjc3EAfgBmAHEAfgAvdXEAfgBpAAAAAHNxAH4AlnQABFVuaXRxAH4AnHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AIl4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGx0AAVQbGFpbnEAfgA/c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCXWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB7c3EAfgCWdAAFQXJyYXlxAH4AnHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCWdAAGU3RyaW5nc3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonQABGphdmFzcQB+AKJ0AARsYW5ncQB+AKdzcQB+AHMAcHNxAH4AeHVxAH4AvgAAAARzcQB+AJZ0AANBcHBxAH4AnHNxAH4AlnQAC0RlbGF5ZWRJbml0cQB+AJxzcQB+AJZ0AAZPYmplY3RxAH4AwnNxAH4AlnQAA0FueXEAfgCcdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAUY3VyaW91c2NvbXBhbmlvbi5hcHBzcQB+ANZ0ABBjdXJpb3VzY29tcGFuaW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOMcfaEnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AENDOlxVc2Vyc1xKdWFuRGF2aWRcc2NhbGFcY3VyaW91c2NvbXBhbmlvblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUmBU8KZqKlS9fbudiIEk/h67mj2k=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCOttbBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNXeIfF0AAZub3RpZnlzcQB+AAwzJ88BdAAEd2FpdHNxAH4ADFsT+O90AA0kYXNJbnN0YW5jZU9mc3EAfgAMhAGkQ3QABmVxdWFsc3NxAH4ADDasc3V0AAxhc0luc3RhbmNlT2ZzcQB+AAyLLMy9dAAMc3luY2hyb25pemVkc3EAfgAMtjpafHQADSRpc0luc3RhbmNlT2ZzcQB+AAyut0ZpdAAGY3JlYXRlc3EAfgAMxHyf1XQADWluamVjdE1lc3NhZ2VzcQB+AAxokRyHdAAKY2xpZW50Rmxvd3NxAH4ADInPKA10AAlub3RpZnlBbGxzcQB+AAy4GatXdAAMaXNJbnN0YW5jZU9mc3EAfgAM8tpNR3QAAj09c3EAfgAMfD2Rj3QABWNsb25lc3EAfgAMdc9ZaHQACHRvU3RyaW5nc3EAfgAM9QGmcXQAAiE9c3EAfgAMotpsvXQACGdldENsYXNzc3EAfgAMeAxVWHQABkNsaWVudHNxAH4ADJBxG2d0AAJuZXNxAH4ADOnp+YR0AAJlcXNxAH4ADC4z9O10AAIjI3NxAH4ADL9i+/B0AAhmaW5hbGl6ZXNxAH4ADLdy+2p0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0AB5jdXJpb3VzY29tcGFuaW9uLmNvbW1vbi5DbGllbnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AF54cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF0AcHNxAH4AYnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGZzcQB+AF0AcHNxAH4AYnVxAH4AQAAAAABzcQB+AF0AcHNxAH4AYnVxAH4AQAAAAABzcQB+AF0AcHNxAH4AYnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AgnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ag3NxAH4AdnQAA0FueXNxAH4AenNxAH4AfXVxAH4AgAAAAAJzcQB+AIJ0AAVzY2FsYXEAfgCJc3EAfgBCcQB+AE91cQB+AFAAAAAAc3EAfgBSAHQAHmN1cmlvdXNjb21wYW5pb24uY29tbW9uLkNsaWVudHVxAH4AVQAAAAB+cQB+AFd0AAZNb2R1bGV1cQB+AFsAAAAAc3EAfgBdAHBzcQB+AGJxAH4AZ3NxAH4AXQBwc3EAfgBic3EAfgBqc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cQB+AHQAAAACc3EAfgB2cQB+AHlzcQB+AHpzcQB+AH11cQB+AIAAAAADc3EAfgCCcQB+AIVzcQB+AIJxAH4Ah3EAfgCJc3EAfgB2cQB+AItzcQB+AHpzcQB+AH11cQB+AIAAAAACc3EAfgCCcQB+AJBxAH4AiXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAF2N1cmlvdXNjb21wYW5pb24uY29tbW9uc3EAfgC0dAAQY3VyaW91c2NvbXBhbmlvbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTjHH2hJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABDQzpcVXNlcnNcSnVhbkRhdmlkXHNjYWxhXGN1cmlvdXNjb21wYW5pb25cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLJl9TX+uM6QwgecwZpT8MZAUwqH
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA3WBPzAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwwCBg33QABHNlbGZzcQB+AAs4lbdRdAAHY29udGV4dHVxAH4ACQAAACpzcQB+AAtmSAuzdAAGbm90aWZ5c3EAfgALmbvLOHQAB1JlY2VpdmVzcQB+AAtBWD0IdAALQ2xpZW50QWN0b3JzcQB+AAvIiAZcdAAEd2FpdHNxAH4AC98KZ8l0AAhnZXRUb3BpY3NxAH4AC5MtOJZ0AA0kYXNJbnN0YW5jZU9mc3EAfgALqXnSCnQABmVxdWFsc3NxAH4AC8MwbSh0AAtzdWJzY3JpYmVyc3NxAH4ACz4QL6Z0AAxhc0luc3RhbmNlT2ZzcQB+AAtlg5ATdAAIZGlzcGF0Y2hzcQB+AAvkD7AadAAMc3luY2hyb25pemVkc3EAfgALY7b6RHQADSRpc0luc3RhbmNlT2ZzcQB+AAv4zExGdAAHcmVjZWl2ZXNxAH4AC5HgCWx0AApwcmVSZXN0YXJ0c3EAfgALDKEWmnQADWFyb3VuZFJlY2VpdmVzcQB+AAvTu2V5dAALcG9zdFJlc3RhcnRzcQB+AAux3d+SdAAIcG9zdFN0b3BzcQB+AAtlfe+YdAAJbm90aWZ5QWxsc3EAfgALS03RGnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALIc5213QADGlzSW5zdGFuY2VPZnNxAH4AC7lUJdZ0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALeLlgXnQADmFyb3VuZFBvc3RTdG9wc3EAfgALTdWEX3QABjxpbml0PnNxAH4AC6+dpuF0AAhwcmVTdGFydHNxAH4AC3+RGVp0AAl1bmhhbmRsZWRzcQB+AAtxfHVYdAALZGlzcGF0Y2hBbGxzcQB+AAu/vWBPdAACPT1zcQB+AAv+wZGZdAAFY2xvbmVzcQB+AAvqPg1SdAAGc2VuZGVyc3EAfgALPjnAuXQACHRvU3RyaW5nc3EAfgALbrLV+nQAAiE9c3EAfgALWrOmhnQABXRvcGljc3EAfgALP393CHQACGdldENsYXNzc3EAfgAL7QwehXQAAm5lc3EAfgAL4Vg+e3QAEHNlbmRBZG1pbk1lc3NhZ2VzcQB+AAvVpWdEdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALw7Ry4XQAAmVxc3EAfgAL4CP06HQAA2xvZ3NxAH4AC7x9gs90AAIjI3NxAH4AC6XFMSh0AAhmaW5hbGl6ZXNxAH4AC97NNOh0AAhoYXNoQ29kZXNxAH4ACyvnbLN0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACNjdXJpb3VzY29tcGFuaW9uLmNvbW1vbi5DbGllbnRBY3RvcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AiHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AhwBwc3EAfgCMc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AG9MAAlpbmhlcml0ZWRxAH4Ab0wAB3BhcmVudHNxAH4Ab3hxAH4AkHNxAH4AhwBwc3EAfgCMdXEAfgBqAAAAAHNxAH4AhwBwc3EAfgCMdXEAfgBqAAAAAHNxAH4AhwBwc3EAfgCMdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCPdAAMQWN0b3JMb2dnaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCPc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCsdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ArXNxAH4AoHQABUFjdG9ycQB+AKZzcQB+AKB0AAZPYmplY3RzcQB+AKRzcQB+AKd1cQB+AKoAAAADc3EAfgCsdAAEamF2YXNxAH4ArHQABGxhbmdxAH4As3NxAH4AoHQAA0FueXNxAH4ApHNxAH4Ap3VxAH4AqgAAAAJzcQB+AKx0AAVzY2FsYXEAfgCzdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAXY3VyaW91c2NvbXBhbmlvbi5jb21tb25zcQB+AMh0ABBjdXJpb3VzY29tcGFuaW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOMcfaEnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AENDOlxVc2Vyc1xKdWFuRGF2aWRcc2NhbGFcY3VyaW91c2NvbXBhbmlvblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUgWgwFt4RAwWvVxQEFZou0SsDkNk=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCShlmxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwGWXpsHQABHNlbGZzcQB+AAu3UOwJdAAHY29udGV4dHVxAH4ACQAAACVzcQB+AAs2RP9ydAAGbm90aWZ5c3EAfgALIPmrPnQAB1JlY2VpdmVzcQB+AAtXIqe6dAAEd2FpdHNxAH4AC9ayMIt0AA0kYXNJbnN0YW5jZU9mc3EAfgALTtGmw3QABmVxdWFsc3NxAH4AC1dlvP50AAxhc0luc3RhbmNlT2ZzcQB+AAsCB2fvdAAMc3luY2hyb25pemVkc3EAfgAL7GlQ4nQADSRpc0luc3RhbmNlT2ZzcQB+AAu3AZmxdAAHcmVjZWl2ZXNxAH4AC/Lye3J0AApwcmVSZXN0YXJ0c3EAfgAL5NpRv3QADWFyb3VuZFJlY2VpdmVzcQB+AAsz2w7fdAALcG9zdFJlc3RhcnRzcQB+AAsjh4xLdAAMY3VycmVudFN0YXRlc3EAfgALq3W1y3QACHBvc3RTdG9wc3EAfgALCfBoxnQACW5vdGlmeUFsbHNxAH4AC8PeHAJ0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC20r3OV0AAxpc0luc3RhbmNlT2ZzcQB+AAshyTOjdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC8CMnO90AA5hcm91bmRQb3N0U3RvcHNxAH4AC41xKjl0AAY8aW5pdD5zcQB+AAt8swR9dAAIcHJlU3RhcnRzcQB+AAuhg3e9dAAJdW5oYW5kbGVkc3EAfgALU+0z9HQAAj09c3EAfgALEDyOjnQABWNsb25lc3EAfgALR/okFnQABnNlbmRlcnNxAH4AC8kq+bR0AAh0b1N0cmluZ3NxAH4AC5un2c50AAIhPXNxAH4AC9ACCsV0AAhnZXRDbGFzc3NxAH4ACz7zVZN0AA1Ob3RpZmllckFjdG9yc3EAfgALsIn5rHQAAm5lc3EAfgALm7Tj23QAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC7qwlyF0AAJlcXNxAH4AC5adTyZ0AANsb2dzcQB+AAsXXZd1dAACIyNzcQB+AAvSS4agdAAIZmluYWxpemVzcQB+AAvSs6jjdAAIaGFzaENvZGVzcQB+AAtt5XGAdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAlY3VyaW91c2NvbXBhbmlvbi5jb21tb24uTm90aWZpZXJBY3RvcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Afnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AfQBwc3EAfgCCc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4AhnNxAH4AfQBwc3EAfgCCdXEAfgBgAAAAAHNxAH4AfQBwc3EAfgCCdXEAfgBgAAAAAHNxAH4AfQBwc3EAfgCCdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCFdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AKJ0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCjc3EAfgCWdAAGT2JqZWN0c3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonQABGphdmFzcQB+AKJ0AARsYW5ncQB+AKlzcQB+AJZ0AANBbnlzcQB+AJpzcQB+AJ11cQB+AKAAAAACc3EAfgCidAAFc2NhbGFxAH4AqXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAF2N1cmlvdXNjb21wYW5pb24uY29tbW9uc3EAfgC8dAAQY3VyaW91c2NvbXBhbmlvbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTjHH2hJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABDQzpcVXNlcnNcSnVhbkRhdmlkXHNjYWxhXGN1cmlvdXNjb21wYW5pb25cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAcO4JZ900S4se5CRTfofgwHfB2b
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA9KpPaAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFW+lVZ0AAZub3RpZnlzcQB+AAwBaCsndAAHdW5hcHBseXNxAH4ADNU9jqh0AAxOb3RpZmljYXRpb25zcQB+AAz86quRdAAHY3VycmllZHNxAH4ADLMXr6F0AARuYW1lc3EAfgAMzrf70XQABHdhaXRzcQB+AAw/D8F+dAAOY29weSRkZWZhdWx0JDJzcQB+AAwnImRwdAANJGFzSW5zdGFuY2VPZnNxAH4ADCLMZjV0AAhsb2NhdGlvbnNxAH4ADFMawX10AA5jb3B5JGRlZmF1bHQkNXNxAH4ADLzZTSh0AAdjb21wb3Nlc3EAfgAMHSbkn3QADHByb2R1Y3RBcml0eXNxAH4ADICOm610AAZlcXVhbHNzcQB+AAwbKMrgdAALc3Vic2NyaWJlcnNzcQB+AAwnYGEudAAKc3Vic2NyaWJlcnNxAH4ADB7vbKx0AAxhc0luc3RhbmNlT2ZzcQB+AAzp+aapdAAPdG9DbGllbnRNZXNzYWdlc3EAfgAM80dq13QABmVmZmVjdHNxAH4ADP1SBO90AAxzeW5jaHJvbml6ZWRzcQB+AAyVHppedAANJGlzSW5zdGFuY2VPZnNxAH4ADGq4xk10AAdhbmRUaGVuc3EAfgAMsCmh3nQAEE5vdGlmaWVyUHJvdG9jb2xzcQB+AAySr6/SdAAJTmV4dEV2ZW50c3EAfgAM+EtOX3QABnR1cGxlZHNxAH4ADLkrQFB0AANyZWZzcQB+AAx5igaHdAAQVW5zdWJzY3JpYmVFdmVudHNxAH4ADKCdRIx0AAhjYW5FcXVhbHNxAH4ADEQKB9V0ABFTdWJzY3JpcHRpb25FdmVudHNxAH4ADBbZaet0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADF+ytNt0AA1wcm9kdWN0UHJlZml4c3EAfgAMk9fhrHQACW5vdGlmeUFsbHNxAH4ADHZllNl0AAtyZWFkUmVzb2x2ZXNxAH4ADEaUjwp0AAxpc0luc3RhbmNlT2ZzcQB+AAwsw+IfdAACT0tzcQB+AAykYietdAAMUmVxdWVzdEV2ZW50c3EAfgAMINjpJHQABjxpbml0PnNxAH4ADMar8s50AAVhcHBseXNxAH4ADNXvjF90AA1DbGllbnRNZXNzYWdlc3EAfgAM2rrVwnQAAj09c3EAfgAMgOcHg3QAD1BhcnRpY2lwYW50TGVmdHNxAH4ADFtYzQJ0AAVjbG9uZXNxAH4ADJXnc5Z0AAtDbGllbnRFdmVudHNxAH4ADLxkTkN0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADEjExC90AARjb3B5c3EAfgAMYW4apnQABnNlbmRlcnNxAH4ADLOPiY90AAdtZXNzYWdlc3EAfgAMH4ArxHQACHRvU3RyaW5nc3EAfgAMCpFapHQACE5vdGlmaWVyc3EAfgAMD2UDTnQADU5vdGlmaWVyRXZlbnRzcQB+AAwemB0udAACIT1zcQB+AAwOTPDMdAAFdG9waWNzcQB+AAxbyNewdAAEdGltZXNxAH4ADAFA3Ml0AAhnZXRDbGFzc3NxAH4ADFqhrod0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMujsxB0AA5OZXdQYXJ0aWNpcGFudHNxAH4ADJyNU/B0AAJuZXNxAH4ADIRd2zV0AA5DbGllbnRQcm90b2NvbHNxAH4ADKI0RS10AA9SZWNlaXZlZE1lc3NhZ2VzcQB+AAyy4+vbdAACZXFzcQB+AAyI5zSBdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMq+srtnQAAiMjc3EAfgAMB5x6M3QACGZpbmFsaXplc3EAfgAMGXjyDHQADnByb2R1Y3RFbGVtZW50c3EAfgAMzcQAB3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Al3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAH2N1cmlvdXNjb21wYW5pb24ubW9kZWwuTm90aWZpZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ALB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AK8AcHNxAH4AtHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCXTAAJaW5oZXJpdGVkcQB+AJdMAAdwYXJlbnRzcQB+AJd4cQB+ALhzcQB+AK8AcHNxAH4AtHVxAH4AkgAAAABzcQB+AK8AcHNxAH4AtHVxAH4AkgAAAABzcQB+AK8AcHNxAH4AtHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4At3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4At3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A1XNxAH4AyHEAfgDLc3EAfgDMc3EAfgDPdXEAfgDSAAAAA3NxAH4A1HQABGphdmFzcQB+ANR0AAJpb3EAfgDZc3EAfgDIdAAHUHJvZHVjdHEAfgDOc3EAfgDIdAAGRXF1YWxzcQB+AM5zcQB+AMh0AAZPYmplY3RzcQB+AMxzcQB+AM91cQB+ANIAAAADc3EAfgDUcQB+AN9zcQB+ANR0AARsYW5ncQB+ANlzcQB+AMh0AANBbnlxAH4AznNxAH4AlHEAfgChdXEAfgCiAAAAAHNxAH4ApAB0ACRjdXJpb3VzY29tcGFuaW9uLm1vZGVsLkNsaWVudE1lc3NhZ2V1cQB+AKcAAAAAcQB+AKt1cQB+AK0AAAAAc3EAfgCvAHBzcQB+ALRxAH4AuXNxAH4ArwBwc3EAfgC0c3EAfgC8c3EAfgCvAHBzcQB+ALR1cQB+AJIAAAAAc3EAfgCvAHBzcQB+ALR1cQB+AJIAAAAAc3EAfgCvAHBzcQB+ALR1cQB+AMYAAAAGc3EAfgDIcQB+AMtzcQB+AMxzcQB+AM91cQB+ANIAAAACc3EAfgDUcQB+ANdxAH4A2XNxAH4AyHEAfgDLc3EAfgDMc3EAfgDPdXEAfgDSAAAAA3NxAH4A1HEAfgDfc3EAfgDUdAACaW9xAH4A2XNxAH4AyHEAfgDjcQB+AQVzcQB+AMh0AAZFcXVhbHNxAH4BBXNxAH4AyHEAfgDnc3EAfgDMc3EAfgDPdXEAfgDSAAAAA3NxAH4A1HEAfgDfc3EAfgDUcQB+AO1xAH4A2XNxAH4AyHEAfgDvcQB+AQVzcQB+AJRxAH4AoXVxAH4AogAAAABzcQB+AKQAdAAjY3VyaW91c2NvbXBhbmlvbi5tb2RlbC5Ob3RpZmljYXRpb251cQB+AKcAAAAAcQB+AKt1cQB+AK0AAAAAc3EAfgCvAHBzcQB+ALRxAH4AuXNxAH4ArwBwc3EAfgC0c3EAfgC8c3EAfgCvAHBzcQB+ALR1cQB+AJIAAAAAc3EAfgCvAHBzcQB+ALR1cQB+AJIAAAAAc3EAfgCvAHBzcQB+ALR1cQB+AMYAAAAGc3EAfgDIcQB+AMtzcQB+AMxzcQB+AM91cQB+ANIAAAACc3EAfgDUcQB+ANdxAH4A2XNxAH4AyHEAfgDLc3EAfgDMc3EAfgDPdXEAfgDSAAAAA3NxAH4A1HEAfgDfc3EAfgDUdAACaW9xAH4A2XNxAH4AyHEAfgDjcQB+AS9zcQB+AMh0AAZFcXVhbHNxAH4BL3NxAH4AyHEAfgDnc3EAfgDMc3EAfgDPdXEAfgDSAAAAA3NxAH4A1HEAfgDfc3EAfgDUcQB+AO1xAH4A2XNxAH4AyHEAfgDvcQB+AS9zcQB+AJRxAH4AoXVxAH4AogAAAABzcQB+AKQAdAAnY3VyaW91c2NvbXBhbmlvbi5tb2RlbC5Ob3RpZmllclByb3RvY29sdXEAfgCnAAAAAH5xAH4AqXQABk1vZHVsZXVxAH4ArQAAAABzcQB+AK8AcHNxAH4AtHEAfgC5c3EAfgCvAHBzcQB+ALRzcQB+ALxzcQB+AK8AcHNxAH4AtHVxAH4AkgAAAABzcQB+AK8AcHNxAH4AtHVxAH4AkgAAAABzcQB+AK8AcHNxAH4AtHVxAH4AxgAAAAJzcQB+AMhxAH4A53NxAH4AzHNxAH4Az3VxAH4A0gAAAANzcQB+ANRxAH4A33NxAH4A1HEAfgDtcQB+ANlzcQB+AMhxAH4A73NxAH4AzHNxAH4Az3VxAH4A0gAAAAJzcQB+ANRxAH4A13EAfgDZc3EAfgCUcQB+AKF1cQB+AKIAAAAAc3EAfgCkAHQAJWN1cmlvdXNjb21wYW5pb24ubW9kZWwuQ2xpZW50UHJvdG9jb2x1cQB+AKcAAAAAcQB+AUl1cQB+AK0AAAAAc3EAfgCvAHBzcQB+ALRxAH4AuXNxAH4ArwBwc3EAfgC0c3EAfgC8c3EAfgCvAHBzcQB+ALR1cQB+AJIAAAAAc3EAfgCvAHBzcQB+ALR1cQB+AJIAAAAAc3EAfgCvAHBzcQB+ALR1cQB+AMYAAAACc3EAfgDIcQB+AOdzcQB+AMxzcQB+AM91cQB+ANIAAAADc3EAfgDUcQB+AN9zcQB+ANRxAH4A7XEAfgDZc3EAfgDIcQB+AO9zcQB+AMxzcQB+AM91cQB+ANIAAAACc3EAfgDUcQB+ANdxAH4A2XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAFmN1cmlvdXNjb21wYW5pb24ubW9kZWxzcQB+AYZ0ABBjdXJpb3VzY29tcGFuaW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOMcfaEnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AENDOlxVc2Vyc1xKdWFuRGF2aWRcc2NhbGFcY3VyaW91c2NvbXBhbmlvblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUym/DCl0nE1DETfwwmYn6j9mvDOE=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCbxCUDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLYKtuZ0ABJub3RpZmljYXRpb25Sb3V0ZXJzcQB+AAwwZ6lEdAAGbm90aWZ5c3EAfgAMbfjc3nQABnRvcGljc3NxAH4ADO10e6R0AAR3YWl0c3EAfgAMSn/TiHQADSRhc0luc3RhbmNlT2ZzcQB+AAzEHS9DdAAGZXF1YWxzc3EAfgAM6K9FgnQADGdldE5vdGlmaWVyc3NxAH4ADETRCq10AAxhc0luc3RhbmNlT2ZzcQB+AAzr2THcdAAMc3luY2hyb25pemVkc3EAfgAMeV3FFnQADSRpc0luc3RhbmNlT2ZzcQB+AAxes0bUdAAJbm90aWZ5QWxsc3EAfgAMeV6fi3QADGlzSW5zdGFuY2VPZnNxAH4ADLXjMJ10AAY8aW5pdD5zcQB+AAzL7QB/dAACPT1zcQB+AAyuz17CdAAFY2xvbmVzcQB+AAymnxAmdAAIdG9TdHJpbmdzcQB+AAzvA+2/dAACIT1zcQB+AAzQcHqJdAAIZ2V0Q2xhc3NzcQB+AAwgFoQmdAACbmVzcQB+AAwrJYEsdAACZXFzcQB+AAwrmX0mdAATTm90aWZpY2F0aW9uU2VydmljZXNxAH4ADMicCsR0AAIjI3NxAH4ADFsshQd0AAhmaW5hbGl6ZXNxAH4ADFAMw810AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACxjdXJpb3VzY29tcGFuaW9uLnNlcnZpY2UuTm90aWZpY2F0aW9uU2VydmljZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AYHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXwBwc3EAfgBkc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwBwc3EAfgBkdXEAfgBCAAAAAHNxAH4AXwBwc3EAfgBkdXEAfgBCAAAAAHNxAH4AXwBwc3EAfgBkdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCEdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCFc3EAfgB4dAADQW55c3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHQABXNjYWxhcQB+AIt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABhjdXJpb3VzY29tcGFuaW9uLnNlcnZpY2VzcQB+AJV0ABBjdXJpb3VzY29tcGFuaW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOMcfaEnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AENDOlxVc2Vyc1xKdWFuRGF2aWRcc2NhbGFcY3VyaW91c2NvbXBhbmlvblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUomavNI9wXcQdo5tvKjVzXZQqVjE=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDfRljiAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAJc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwpC6bjXQAJnN0cmluZ05hbWVPcHRpb25SZWNlcHRhY2xlMlBhdGhNYXRjaGVyc3EAfgALl+MfmXQAAmV2c3EAfgALnXA/JHQAGnNlZ21lbnRTdHJpbmdUb1BhdGhNYXRjaGVyc3EAfgALkM0fRHQACXN0cmluZzJOUnNxAH4ACwjyj5l0AB1lbmhhbmNlUm91dGVXaXRoQ29uY2F0ZW5hdGlvbnNxAH4AC/AS6nh0AAlzeW1ib2wyTlJzcQB+AAsMDj6QdAAgc3RyaW5nRXh0cmFjdGlvblBhaXIyUGF0aE1hdGNoZXJzcQB+AAuNhlVNdAAUdmFsdWVNYXAyUGF0aE1hdGNoZXJzcQB+AAv09y3ydAARcmVnZXgyUGF0aE1hdGNoZXJ1cQB+AAkAAADHc3EAfgAL/+InaXQACWZvcm1GaWVsZHNxAH4AC+evrh90ABB3aXRoUmFuZ2VTdXBwb3J0c3EAfgALzwCazXQAFHBhdGhFbmRPclNpbmdsZVNsYXNoc3EAfgALs0p9wnQABm5vdGlmeXNxAH4AC+LHg790AAlJbnROdW1iZXJzcQB+AAvLa1VddAAXZXh0cmFjdEZsb3dNYXRlcmlhbGl6ZXJzcQB+AAv36KHLdAARYXV0aGVudGljYXRlQmFzaWNzcQB+AAvtd7ZrdAAHdGhlQ2hhdHNxAH4AC2pedK90AA9wYXRoU2luZ2xlU2xhc2hzcQB+AAu/pkVTdAAYcmVzcG9uc2VFbmNvZGluZ0FjY2VwdGVkc3EAfgALpSTkdXQABm1ldGhvZHNxAH4ACxhW5Hh0AARwb3N0c3EAfgALx3JlqHQAEm1hcFJvdXRlUmVzdWx0V2l0aHNxAH4AC8XZb5p0ABFoZWFkZXJWYWx1ZUJ5TmFtZXNxAH4AC6CXqmN0ABVvcHRpb25hbEhlYWRlclZhbHVlUEZzcQB+AAtFYHcjdAAKV2Vic2VydmljZXNxAH4AC7LcJYp0AAh0cHJvdmlkZXNxAH4AC4/wOx10AAlwYXJhbWV0ZXJzcQB+AAsorm/ZdAANZXh0cmFjdE1ldGhvZHNxAH4ACxeo43d0ABlyZXNwb25kV2l0aERlZmF1bHRIZWFkZXJzc3EAfgALOGyXbHQAEnJlc3BvbmRXaXRoSGVhZGVyc3NxAH4AC8q7/f50AAR3YWl0c3EAfgAL0cJiH3QAFWxpc3REaXJlY3RvcnlDb250ZW50c3NxAH4ACyK9sHZ0AA0kYXNJbnN0YW5jZU9mc3EAfgALxGam1nQABHBhdGhzcQB+AAtwf0rAdAAKaW5zdGFuY2VPZnNxAH4AC+TAvih0AAdOZXV0cmFsc3EAfgALV//irXQAB2NvbXBvc2VzcQB+AAv2+zohdAAIcmVkaXJlY3RzcQB+AAvWglC8dAAScmVxdWVzdEVudGl0eUVtcHR5c3EAfgALDAOc2XQADWhlYWRlclZhbHVlUEZzcQB+AAuazvvadAAHUGF0aEVuZHNxAH4AC7km9yh0AA9mcm9tRGVjaW1hbENoYXJzcQB+AAswOomzdAAGZXF1YWxzc3EAfgALey+4THQAD0F1dGhlbnRpY2F0b3JQRnNxAH4AC2i6kVh0AAhtaW51c09uZXNxAH4AC6d1o8d0ABFyYXdQYXRoUHJlZml4VGVzdHNxAH4AC1lay+10ABhnZXRGcm9tUmVzb3VyY2VEaXJlY3RvcnlzcQB+AAsftlwqdAATb3B0aW9uYWxIZWFkZXJWYWx1ZXNxAH4ACyGQqO90ABBnZXRGcm9tRGlyZWN0b3J5c3EAfgALT6uaYXQACHRleHRyYWN0c3EAfgALU14VCHQACm1heERpdkJhc2VzcQB+AAs5bvIJdAARd2Vic29ja2V0Q2hhdEZsb3dzcQB+AAv96PbNdAAiZ2V0RnJvbVJlc291cmNlRGlyZWN0b3J5JGRlZmF1bHQkMnNxAH4AC7/VFnN0AAttYXBTZXR0aW5nc3NxAH4AC3jWp1l0AARoZWFkc3EAfgALUQ8/rXQADGFzSW5zdGFuY2VPZnNxAH4AC2T06zN0ABBoYW5kbGVSZWplY3Rpb25zc3EAfgAL3PL3J3QACnBhdGhQcmVmaXhzcQB+AAvjEhAldAANSGV4TG9uZ051bWJlcnNxAH4AC38IRBx0AAxIZXhJbnROdW1iZXJzcQB+AAuoMX1YdAAEaG9zdHNxAH4ACyg5c5x0ABhyZXNwb25kV2l0aERlZmF1bHRIZWFkZXJzcQB+AAvWk1BjdAAMcGFyYW1ldGVyTWFwc3EAfgALZckokHQAEHJlcG9ydEVycm9yc0Zsb3dzcQB+AAsSvOzpdAAKTG9uZ051bWJlcnNxAH4AC7z7wid0AAh2YWxpZGF0ZXNxAH4AC8nHjLJ0AAxzeW5jaHJvbml6ZWRzcQB+AAuzeleSdAATcmVqZWN0RW1wdHlSZXNwb25zZXNxAH4AC67syil0AAhmcm9tQ2hhcnNxAH4AC8BxCQt0AAd1bmFyeV8hc3EAfgALsby4LHQAD2dldEZyb21SZXNvdXJjZXNxAH4ACwCG19h0ABdoYW5kbGVXZWJzb2NrZXRNZXNzYWdlc3NxAH4AC5FyQ+90ABJyZXF1ZXN0RW5jb2RlZFdpdGhzcQB+AAvZHERxdAAVcmVjb3ZlclJlamVjdGlvbnNXaXRoc3EAfgALgyPAdHQADSRpc0luc3RhbmNlT2ZzcQB+AAsbOwb5dAAPY2FuY2VsUmVqZWN0aW9uc3EAfgALmg0nWHQAIHJlZGlyZWN0VG9UcmFpbGluZ1NsYXNoSWZNaXNzaW5nc3EAfgALtPDSgHQAB2FuZFRoZW5zcQB+AAuXS3jYdAAMZGVsZXRlQ29va2llc3EAfgALInz5/3QAAmFzc3EAfgALp2+r33QABFJlc3RzcQB+AAuvpvDydAANZXh0cmFjdFNjaGVtZXNxAH4AC48CqVR0ABJBc3luY0F1dGhlbnRpY2F0b3JzcQB+AAvz7X7BdAAYYXV0aGVudGljYXRlQmFzaWNQRkFzeW5jc3EAfgALu0t9j3QAAXxzcQB+AAtwXa7sdAALZXh0cmFjdEhvc3RzcQB+AAufLKLpdAAWZGVsZXRlQ29va2llJGRlZmF1bHQkM3NxAH4AC6jHjFR0ABJtYXBSZXNwb25zZUhlYWRlcnNzcQB+AAu0KrtHdAAUcmVxdWVzdEVudGl0eVByZXNlbnRzcQB+AAuB259gdAAOZW5jb2RlUmVzcG9uc2VzcQB+AAtAsnAydAAUd2l0aEZsb3dNYXRlcmlhbGl6ZXJzcQB+AAsBJHvUdAAVZXh0cmFjdFJlcXVlc3RDb250ZXh0c3EAfgALPVoc9HQAEmVuY29kZVJlc3BvbnNlV2l0aHNxAH4ACy5HkkV0AAdwcm92aWRlc3EAfgALA93zonQABnJlamVjdHNxAH4AC7p/CCd0AAlub3RpZnlBbGxzcQB+AAvjD+9SdAAaZ2V0RnJvbUJyb3dzZWFibGVEaXJlY3RvcnlzcQB+AAsJCiNtdAALY29uZGl0aW9uYWxzcQB+AAvm6VJhdAAZb3B0aW9uYWxIZWFkZXJWYWx1ZUJ5TmFtZXNxAH4ACxucHmJ0AAR0bWFwc3EAfgALE29kg3QAEm92ZXJyaWRlU3RhdHVzQ29kZXNxAH4AC8ldfq10AApleHRyYWN0VXJpc3EAfgALHB15MXQADGlzSW5zdGFuY2VPZnNxAH4AC9CXzWN0ACJyZWRpcmVjdFRvTm9UcmFpbGluZ1NsYXNoSWZQcmVzZW50c3EAfgALVhO7bHQAB3BhdGhFbmRzcQB+AAtcFiMsdAANcmF3UGF0aFByZWZpeHNxAH4ACyvmiMp0AAdvcHRpb25zc3EAfgALNAhIKHQACm1hcFJlcXVlc3RzcQB+AAuzbJ/AdAAJb25TdWNjZXNzc3EAfgALBDwNhHQAEW1hcFJlc3BvbnNlRW50aXR5c3EAfgALuUPSX3QAFHdpdGhFeGVjdXRpb25Db250ZXh0c3EAfgAL8ml6inQAEmRlZmF1bHRDbGFzc0xvYWRlcnNxAH4AC05vivp0AAhmYWlsV2l0aHNxAH4AC0wUrM50ABBtYXBVbm1hdGNoZWRQYXRoc3EAfgALvaRC+nQABjxpbml0PnNxAH4ACyb8DaB0AAtnZXRGcm9tRmlsZXNxAH4AC+7JjKh0ABBsb2dSZXF1ZXN0UmVzdWx0c3EAfgALGclIlXQADW1hcElubmVyUm91dGVzcQB+AAuAUDKEdAAHU2VnbWVudHNxAH4AC46gUh10AAhjb21wbGV0ZXNxAH4ACxAl0Bd0AAVhcHBseXNxAH4AC22NDeZ0ABFtYXBSZXF1ZXN0Q29udGV4dHNxAH4AC2jqcFh0AA5wYXRoUHJlZml4VGVzdHNxAH4AC/DDEQB0AA1BdXRoZW50aWNhdG9yc3EAfgALGpNHaXQAHGdldEZyb21Ccm93c2VhYmxlRGlyZWN0b3JpZXNzcQB+AAsxgljTdAAMY29tcGxldGVXaXRoc3EAfgALyOP3lXQADHBhcmFtZXRlclNlcXNxAH4AC7PthoZ0AA5vcHRpb25hbENvb2tpZXNxAH4AC3ZzUWd0AAI9PXNxAH4AC8qZ5/d0AAZzY2hlbWVzcQB+AAuc4pjxdAAGY29va2llc3EAfgALEaFrFXQAFEF1dGhlbnRpY2F0aW9uUmVzdWx0c3EAfgALE9OQNHQABVNsYXNoc3EAfgALFLEuV3QABWNsb25lc3EAfgAL/3oVTXQACWF1dGhvcml6ZXNxAH4AC/9fn+N0ABRtYXBSb3V0ZVJlc3VsdEZ1dHVyZXNxAH4AC9I9Eft0AAtoZWFkZXJWYWx1ZXNxAH4AC4y9UeR0AApoYW5kbGVXaXRoc3EAfgALPz61VXQABmRlbGV0ZXNxAH4AC4MAA/t0ABFyZWNvdmVyUmVqZWN0aW9uc3NxAH4ACzNlrdB0ABZkZWxldGVDb29raWUkZGVmYXVsdCQyc3EAfgALbVaUs3QABmVudGl0eXNxAH4ACwJrKPJ0AAlzZXRDb29raWVzcQB+AAvJp5BxdAAEcGFzc3NxAH4AC15U2hh0AA9leHRyYWN0Q2xpZW50SVBzcQB+AAsPVpncdAADcHV0c3EAfgALdrCchXQAE2F1dGhlbnRpY2F0ZUJhc2ljUEZzcQB+AAtTZ/FVdAARcGFyYW1ldGVyTXVsdGlNYXBzcQB+AAvMnBzNdAAQcmVwZWF0JGRlZmF1bHQkM3NxAH4ACy3GEkJ0ABBtYXBSb3V0ZVJlc3VsdFBGc3EAfgALyj+g6nQACHRvU3RyaW5nc3EAfgALFkuTH3QACWxvZ1Jlc3VsdHNxAH4AC+4W7590ABtvdmVycmlkZU1ldGhvZFdpdGhQYXJhbWV0ZXJzcQB+AAs+zYuzdAAHd2l0aExvZ3NxAH4AC0Cx2QN0AAhTZWdtZW50c3NxAH4AC+qWYQR0AA5tYXBSb3V0ZVJlc3VsdHNxAH4AC1RWHSp0AAIhPXNxAH4AC25tHuh0AANnZXRzcQB+AAtK+958dAAFcm91dGVzcQB+AAugDTMbdAAUQXN5bmNBdXRoZW50aWNhdG9yUEZzcQB+AAsUouAedAAOcGF0aFN1ZmZpeFRlc3RzcQB+AAvQz+uIdAAIdGZsYXRNYXBzcQB+AAtQwB2cdAAIZ2V0Q2xhc3NzcQB+AAsV3jq3dAAGcmVwZWF0c3EAfgALikbg1XQAEWRlY29kZVJlcXVlc3RXaXRoc3EAfgALpcFcxHQAEWhlYWRlclZhbHVlQnlUeXBlc3EAfgAL1KWfxXQAEGhhbmRsZUV4Y2VwdGlvbnNzcQB+AAs9Jsg/dAAKcGF0aFN1ZmZpeHNxAH4AC32uoTd0ABVjb21wbGV0ZU9yUmVjb3ZlcldpdGhzcQB+AAv8EO6edAAMY2hhbGxlbmdlRm9yc3EAfgALpcTnJ3QAFG1hcFJvdXRlUmVzdWx0V2l0aFBGc3EAfgALqvRh9HQACm9uQ29tcGxldGVzcQB+AAvJEYXLdAALbWFwUmVzcG9uc2VzcQB+AAtbxBYTdAAFcGF0Y2hzcQB+AAvZPwOudAAObm90aGluZ01hdGNoZXJzcQB+AAuvkiBCdAAQY2FuY2VsUmVqZWN0aW9uc3NxAH4ACx2xsaV0AAhKYXZhVVVJRHNxAH4AC71Atbp0AApsb2dSZXF1ZXN0c3EAfgALhFxU/3QACFJlc3RQYXRoc3EAfgAL2CApE3QAAm5lc3EAfgALc7Pw5HQADW1hcFJlamVjdGlvbnNzcQB+AAsG89qIdAAXZXh0cmFjdEV4ZWN1dGlvbkNvbnRleHRzcQB+AAtKeKvXdAAKZm9ybUZpZWxkc3NxAH4AC14VZ550AAl0cmFuc2Zvcm1zcQB+AAuCT74MdAAZZ2V0RnJvbVJlc291cmNlJGRlZmF1bHQkM3NxAH4AC0vXLTB0ABZhdXRoZW50aWNhdGVCYXNpY0FzeW5jc3EAfgALArdj+XQACnBhcmFtZXRlcnNzcQB+AAshd+MldAABfnNxAH4ACz45KdF0ABRleHRyYWN0VW5tYXRjaGVkUGF0aHNxAH4AC8YMFpZ0AA1OdW1iZXJNYXRjaGVyc3EAfgALLc49c3QAIWF1dGhlbnRpY2F0ZU9yUmVqZWN0V2l0aENoYWxsZW5nZXNxAH4AC7JWwh90AAJlcXNxAH4AC2K8G9t0AAxEb3VibGVOdW1iZXJzcQB+AAvdn99YdAAMd2l0aFNldHRpbmdzc3EAfgALYJhMwXQAAS9zcQB+AAtA6jr0dAAOZXh0cmFjdFJlcXVlc3RzcQB+AAtdlbIBdAAKZXh0cmFjdExvZ3NxAH4AC81V1e90ABJleHRyYWN0Q3JlZGVudGlhbHNzcQB+AAvwMwyydAANZGVjb2RlUmVxdWVzdHNxAH4AC+Oi6TJ0ABFyZXNwb25kV2l0aEhlYWRlcnNxAH4AC8bvgv90AAIjI3NxAH4AC6Qkcv90AAhmaW5hbGl6ZXNxAH4AC1pZW5t0AAdleHRyYWN0c3EAfgALPvpbI3QACGhhc2hDb2Rlc3EAfgALVqNHn3QAD2V4dHJhY3RTZXR0aW5nc3NxAH4AC5wAnoR0AAtmcm9tSGV4Q2hhcnNxAH4AC/scYop0ABlvcHRpb25hbEhlYWRlclZhbHVlQnlUeXBlc3EAfgALlvpN63QAEXNlcGFyYXRlT25TbGFzaGVzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Bt3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAI2N1cmlvdXNjb21wYW5pb24uc2VydmljZS5XZWJzZXJ2aWNldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgHQeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgHPAHBzcQB+AdRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Bt0wACWluaGVyaXRlZHEAfgG3TAAHcGFyZW50c3EAfgG3eHEAfgHYc3EAfgHPAHBzcQB+AdR1cQB+AbIAAAAAc3EAfgHPAHBzcQB+AdR1cQB+AbIAAAAAc3EAfgHPAHBzcQB+AdR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAHXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+Add0AApEaXJlY3RpdmVzc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgHXc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAFc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgH0dAAEaHR0cHNxAH4B9HQACHNjYWxhZHNsc3EAfgH0dAAGc2VydmVyc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AfVzcQB+Aeh0ABNXZWJzb2NrZXREaXJlY3RpdmVzc3EAfgHsc3EAfgHvdXEAfgHyAAAABnNxAH4B9HQABGFra2FzcQB+AfR0AARodHRwc3EAfgH0dAAIc2NhbGFkc2xzcQB+AfR0AAZzZXJ2ZXJzcQB+AfR0AApkaXJlY3RpdmVzcQB+Af9zcQB+Aeh0ABJTZWN1cml0eURpcmVjdGl2ZXNxAH4CAnNxAH4B6HQAEFNjaGVtZURpcmVjdGl2ZXNxAH4CAnNxAH4B6HQAD1JvdXRlRGlyZWN0aXZlc3EAfgICc3EAfgHodAAVUmVzcG9uZFdpdGhEaXJlY3RpdmVzcQB+AgJzcQB+Aeh0AA9SYW5nZURpcmVjdGl2ZXNxAH4CAnNxAH4B6HQADlBhdGhEaXJlY3RpdmVzcQB+AgJzcQB+Aeh0AB9JbXBsaWNpdFBhdGhNYXRjaGVyQ29uc3RydWN0aW9ucQB+Ae5zcQB+Aeh0AAxQYXRoTWF0Y2hlcnNxAH4B7nNxAH4B6HQAE1BhcmFtZXRlckRpcmVjdGl2ZXNxAH4CAnNxAH4B6HQADk1pc2NEaXJlY3RpdmVzcQB+AgJzcQB+Aeh0ABBNZXRob2REaXJlY3RpdmVzcQB+AgJzcQB+Aeh0ABVNYXJzaGFsbGluZ0RpcmVjdGl2ZXNxAH4CAnNxAH4B6HQADkhvc3REaXJlY3RpdmVzcQB+AgJzcQB+Aeh0ABBIZWFkZXJEaXJlY3RpdmVzcQB+AgJzcQB+Aeh0ABBGdXR1cmVEaXJlY3RpdmVzcQB+AgJzcQB+Aeh0ABNGb3JtRmllbGREaXJlY3RpdmVzcQB+AgJzcQB+Aeh0ABxUb05hbWVSZWNlcHRhY2xlRW5oYW5jZW1lbnRzc3EAfgHsc3EAfgHvdXEAfgHyAAAABXNxAH4B9HQABGFra2FzcQB+AfR0AARodHRwc3EAfgH0dAAIc2NhbGFkc2xzcQB+AfR0AAZjb21tb25xAH4B/3NxAH4B6HQAGUZpbGVBbmRSZXNvdXJjZURpcmVjdGl2ZXNxAH4CAnNxAH4B6HQAE0V4ZWN1dGlvbkRpcmVjdGl2ZXNxAH4CAnNxAH4B6HQAEENvZGluZ0RpcmVjdGl2ZXNxAH4CAnNxAH4B6HQAE0RlYnVnZ2luZ0RpcmVjdGl2ZXNxAH4CAnNxAH4B6HQAEENvb2tpZURpcmVjdGl2ZXNxAH4CAnNxAH4B6HQAGENhY2hlQ29uZGl0aW9uRGlyZWN0aXZlc3EAfgICc3EAfgHodAAPQmFzaWNEaXJlY3RpdmVzcQB+AgJzcQB+Aeh0ABJSb3V0ZUNvbmNhdGVuYXRpb25xAH4B7nNxAH4B6HQABk9iamVjdHNxAH4B7HNxAH4B73VxAH4B8gAAAANzcQB+AfR0AARqYXZhc3EAfgH0dAAEbGFuZ3EAfgH/c3EAfgHodAADQW55c3EAfgHsc3EAfgHvdXEAfgHyAAAAAnNxAH4B9HQABXNjYWxhcQB+Af91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0ABhjdXJpb3VzY29tcGFuaW9uLnNlcnZpY2VzcQB+Al50ABBjdXJpb3VzY29tcGFuaW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOMcfaEnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AENDOlxVc2Vyc1xKdWFuRGF2aWRcc2NhbGFcY3VyaW91c2NvbXBhbmlvblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUY0kyHXG3t3jRkQgASD7hABduHLI=
+external apis:
+0 items
+source infos:
+7 items
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\app\Boot.scala -> 
+AAAAAAAAAAA=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\Client.scala -> 
+AAAAAAAAAAA=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\ClientActor.scala -> 
+AAAAAAAAAAA=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\common\NotificationActor.scala -> 
+AAAAAgAAAQAAABIANiAgICBjb250ZXh0LnN5c3RlbS5zY2hlZHVsZXIuc2NoZWR1bGVPbmNlKDUuc2Vjb25kcykgewEAAAIUAQAAADUBADUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAaEM6XFVzZXJzXEp1YW5EYXZpZFxzY2FsYVxjdXJpb3VzY29tcGFuaW9uXHNyY1xtYWluXHNjYWxhXGN1cmlvdXNjb21wYW5pb25cY29tbW9uXE5vdGlmaWNhdGlvbkFjdG9yLnNjYWxhAQBoQzpcVXNlcnNcSnVhbkRhdmlkXHNjYWxhXGN1cmlvdXNjb21wYW5pb25cc3JjXG1haW5cc2NhbGFcY3VyaW91c2NvbXBhbmlvblxjb21tb25cTm90aWZpY2F0aW9uQWN0b3Iuc2NhbGEAGGRpc2NhcmRlZCBub24tVW5pdCB2YWx1ZQEAAAEAAAAeADggICAgICBjb250ZXh0LnN5c3RlbS5zY2hlZHVsZXIuc2NoZWR1bGVPbmNlKDUuc2Vjb25kcykgewEAAAOVAQAAADcBADcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBoQzpcVXNlcnNcSnVhbkRhdmlkXHNjYWxhXGN1cmlvdXNjb21wYW5pb25cc3JjXG1haW5cc2NhbGFcY3VyaW91c2NvbXBhbmlvblxjb21tb25cTm90aWZpY2F0aW9uQWN0b3Iuc2NhbGEBAGhDOlxVc2Vyc1xKdWFuRGF2aWRcc2NhbGFcY3VyaW91c2NvbXBhbmlvblxzcmNcbWFpblxzY2FsYVxjdXJpb3VzY29tcGFuaW9uXGNvbW1vblxOb3RpZmljYXRpb25BY3Rvci5zY2FsYQAYZGlzY2FyZGVkIG5vbi1Vbml0IHZhbHVlAQAAAAA=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\model\Domain.scala -> 
+AAAAAAAAAAA=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\NotificationService.scala -> 
+AAAAAAAAAAA=
+C:\Users\JuanDavid\scala\curiouscompanion\src\main\scala\curiouscompanion\service\Webservice.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTjHH2hJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0M6XFVzZXJzXEp1YW5EYXZpZFxzY2FsYVxjdXJpb3VzY29tcGFuaW9uXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
