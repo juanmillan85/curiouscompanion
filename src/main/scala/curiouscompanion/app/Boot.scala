@@ -19,7 +19,7 @@ object Boot extends App {
   val interface = config.getString("app.interface")
   val port = config.getInt("app.port")
   val notiService= new NotificationService
-  implicit val notifiers=notiService .getNotifiers
+  implicit val notifiers=notiService.getNotifiers
   val service = new Webservice
 
   val binding = Http().bindAndHandle(service.route, interface, port)

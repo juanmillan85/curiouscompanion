@@ -1,7 +1,8 @@
-organization  := "juan85"
-
-version       := "0.1"
 lazy val root = (project in file("."))
+organization  := "juan85"
+name:= "curiouscomapnion"
+version       := "0.1"
+
 scalaVersion  := "2.11.6"
 
 resolvers += "Scalaz Bintray Repo" at "http://dl.bintray.com/scalaz/releases"

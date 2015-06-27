@@ -1,16 +1,18 @@
 package curiouscompanion.service
 
-import akka.actor._
+import akka.actor.ActorRef
+import akka.actor.ActorSystem
+import akka.actor.Props
 import curiouscompanion.common.NotifierActor
 
 class NotificationService(implicit system: ActorSystem) {
-  import system.dispatcher
+ 
 
   var topics: List[String] = List("General", "Financial", "Sports", "Fashion")
   var notificationRouter: Map[String, ActorRef] = Map.empty[String, ActorRef]
   topics.foreach((topic: String) => {
 
-    var ref: ActorRef = system.actorOf(Props(new NotifierActor(topic, List.empty[ActorRef])),
+    var ref: ActorRef = system.actorOf(Props(new NotifierActor(topic)),
       name = topic)
     notificationRouter += (topic -> ref)
   })
