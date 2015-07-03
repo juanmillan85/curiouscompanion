@@ -41,7 +41,7 @@ object Client {
     // This source will only buffer one element and will fail if the client doesn't read
     // messages fast enough.
     val ClientOutSource = Source.actorRef[ClientMessage](8, OverflowStrategy.fail)
-
+    //val NotifierOutSource = Source.actorRef[Notification](8, OverflowStrategy.fail)
     new Client {
       def clientFlow(sender: String): Flow[String, ClientMessage, Unit] =
         Flow(ClientInSink(sender), ClientOutSource)(Keep.right) { implicit b =>

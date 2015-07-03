@@ -2,7 +2,8 @@ package curiouscompanion.model
 
 import akka.actor.ActorRef
 
-case class Notifier(topic: String, subscribers: Seq[ActorRef])
+case class Notifier(topic: String, subscribers: Set[ActorRef])
+
 case class ClientMessage(sender: String, message: String)
 case class Notification(topic: String, message: String, location: String, effect: String, time: Long)
 
