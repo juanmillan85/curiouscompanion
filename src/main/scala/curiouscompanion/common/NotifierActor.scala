@@ -9,48 +9,73 @@ import curiouscompanion.model.{ ClientMessage, NotifierProtocol, Notification, N
 import ClientProtocol._
 import NotifierProtocol._
 import scala.concurrent.duration._
+import scala.concurrent._
 
 class NotifierActor(topic: String) extends Actor {
+  import system.dispatcher
+  import curiouscompanion.repository._
+  implicit val system = context.system
+  object repo extends AccountRepositoryRedis
+
   val random = new scala.util.Random()
 
   var subscribers = Set.empty[ActorRef]
-  var messages = List("MSG1", "MSG2", "MSG3", "MSG4", "MSG5", "MSG6", "MSG7", "MSG9", "MSG10")
-  var positions = List("bottom", "left", "right", "top-right", "top-center", "top-left")
-  // log
+  /*
+  var typeMessages = List("error", "warning", "success", "info")
+  var positions = List("toast-top-right", "toast-bottom-right", "toast-bottom-left") //, "toast-top-center", "toast-bottom-center")
+  */
   val log = Logging(context.system, this)
   //random 
   var cont = 0
   override def preStart() {
     val that = self
-    import context.dispatcher
-    context.system.scheduler.scheduleOnce(5.seconds)(that ! NextEvent)
+    //import context.dispatcher
+    /* val start = context.system.scheduler.scheduleOnce(5.seconds) {
+      that ! NextEvent
+
+    }*/
   }
 
   var currentState: Notifier = Notifier(topic, subscribers)
 
   def receive: Receive = LoggingReceive {
     case NextEvent => {
-      var sec = random.nextInt(15) + 1
-      var msg = cont % messages.size //random.nextInt(messages.size)
+      val sec = random.nextInt(30) + 4
+      val delay = random.nextInt(5000) + 3000
       cont += 1
-      var pos = random.nextInt(positions.size)
 
-      var delay = random.nextInt(10000)
+      //log.debug(topic + s":$cont")
+      var f: Future[Notification] = repo.get(topic + s":$cont")
 
-      log.debug(subscribers.size.toString())
-      subscribers
-        .foreach { x =>
-          log.debug("Send to:" + topic)
-          x ! ClientMessage(topic, "{topic:" + topic +
-            ",message:" + messages(msg) + ",location:" + positions(pos) +
-            ",effect:" + new Date().toString + ",time:" + delay + "}")
+      f onSuccess {
+        case n: Notification =>
+          //println(n)
+         // log.debug(subscribers.size.toString())
+          subscribers
+            .foreach { x =>
+              //log.debug("Send to:" + topic)
+              x ! ClientMessage(topic, "{\"topic\": \"" + topic +
+                "\",\"message\": \"" + n.message + "\",\"location\": \"" + n.location +
+                "\",\"type\": \"" + n.optionType +
+                "\",\"keyword\": \"" + n.keywords +
+                "\",\"created\": \"" + new Date().toString + "\",\"time\": " + delay + "}")
+            }
+      }
+      var id=s"$topic-not"
+      repo.count(id) onSuccess {
+        case res:Long=>
+     //     println(s"$cont> $res")
+        if (cont >=res) {
+          cont = 0;
+          
         }
+      }
 
       //subrcibers
       if (!subscribers.isEmpty) {
         val that = self
-        import context.dispatcher
-        context.system.scheduler.scheduleOnce(Duration(sec, SECONDS))(that ! NextEvent)
+        //import context.dispatcher
+        val next = context.system.scheduler.scheduleOnce(Duration(sec, SECONDS))(that ! NextEvent)
       }
 
     }
@@ -62,8 +87,9 @@ class NotifierActor(topic: String) extends Actor {
       currentState = currentState.copy(subscribers = subscribers)
 
     }
-
     case UnsubscribeEvent(ref) =>
       subscribers -= ref
+    case Store =>
+
   }
 }

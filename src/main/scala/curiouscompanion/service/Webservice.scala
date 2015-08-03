@@ -52,7 +52,7 @@ class Webservice(implicit  fm: FlowMaterializer, system: ActorSystem, notifiers:
       }
       .via(theChat.clientFlow(sender)) // ... and route them through the chatFlow ...
       .map {
-      
+      //json
       case ClientMessage(sender, message) =>TextMessage.Strict(s"$sender: $message") // ... pack outgoing messages into WS text messages ...
      
       }

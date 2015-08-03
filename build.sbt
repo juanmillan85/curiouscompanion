@@ -3,9 +3,11 @@ organization  := "juan85"
 name:= "curiouscomapnion"
 version       := "0.1"
 
-scalaVersion  := "2.11.6"
+scalaVersion  := "2.11.7"
 
 resolvers += "Scalaz Bintray Repo" at "http://dl.bintray.com/scalaz/releases"
+
+resolvers += "Brando Repository" at "http://chrisdinn.github.io/releases/"
 
 libraryDependencies ++= {
   val akkaV  = "2.3.10"
@@ -16,7 +18,16 @@ libraryDependencies ++= {
     "org.specs2" %% "specs2" % "2.3.12" % "test",
     "com.typesafe.akka" %% "akka-actor" % akkaV,
     "com.typesafe.akka" %% "akka-testkit" % akkaV,
-    "com.typesafe.akka" %% "akka-persistence-experimental" % akkaV
+    "com.typesafe.akka" %% "akka-persistence-experimental" % akkaV,
+      // redis connector
+  	"com.digital-achiever" %% "brando" % "3.0.0",
+  	//testing
+    "org.scalatest" % "scalatest_2.11" % "3.0.0-M7",
+    // scalacheck
+    "org.scalacheck" % "scalacheck_2.11" % "1.12.4"
+    
+  	
+    
   )
 }
 
