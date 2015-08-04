@@ -65,23 +65,28 @@ class SuiteNotifierActor extends TestKit(ActorSystem("NotifierActorTest")) with 
       Notification("", "General", "Calais migrant crisis", "calais migrant", "info", "toast-top-right", "", 2000L),
       Notification("", "General", "War news", "war", "info", "toast-top-right", "", 2000L),
       Notification("", "General", "Best on social media", "best", "info", "toast-top-right", "", 2000L),
-
+      Notification("", "General", "Travel & Holidays", "relax holiday dreaming", "info", "toast-top-right", "", 2000L),
       //sports
       Notification("", "Sports", "Cricket news", "cricket Steven Finn", "error", "toast-bottom-right", "", 2000L),
       Notification("", "Sports", "England football news", "chelsea manchester arsenal premier league manutd", "warning", "toast-top-right", "", 3000L),
       Notification("", "Sports", "Baseball", "ny baseball", "success", "toast-top-right", "", 1000L),
-      Notification("", "Sports", "Special Olympics", "olympic ", "error", "toast-bottom-right", "", 3000L),
+      Notification("", "Sports", "Special Olympics", "specialolympics LA2015 ", "error", "toast-bottom-right", "", 3000L),
       Notification("", "Sports", "Basketball", "baseketball lakers knicks", "warning", "toast-top-right", "", 2000L),
       Notification("", "Sports", "Click to see news about Falcao", "falcao chelsea", "info", "toast-top-right", "", 1000L),
       Notification("", "Sports", "Champions pics", "champions winner gold", "warning", "toast-top-right", "", 3000L),
       Notification("", "Sports", "Tour the france", "nairo quintana froome france", "info", "toast-top-right", "", 1000L),
       Notification("", "Sports", "FIFA corruption", "corruption platini", "info", "toast-top-right", "", 2000L),
-      Notification("", "Sports", "England sports", "news uk", "error", "toast-bottom-right", "", 2000L),
+      Notification("", "Sports", "England sports", "uk", "error", "toast-bottom-right", "", 2000L),
+      Notification("", "Sports", "Kazan 2015", "kazan2015", "error", "toast-bottom-right", "", 2000L),
       Notification("", "Sports", "Manchester news", "manutd Schweinsteiger Romero De Gea Rooney manchester", "success", "toast-top-right", "", 1000L),
       Notification("", "Sports", "NFL and tom brady", "tom brady", "success", "toast-top-right", "", 1000L),
-      Notification("", "Sports", "UK gold in russia", "tom daley", "success", "toast-top-right", "", 1000L),
+      Notification("", "Sports", "Tom daley news", "tom daley", "success", "toast-top-right", "", 1000L),
       Notification("", "Sports", "best on social media", "best", "success", "toast-top-right", "", 1000L),
-
+      Notification("", "Sports", "di maria transfer", "di maria psg", "success", "toast-top-right", "", 1000L),
+      Notification("", "Sports", "antidoping stories and news", "doping", "success", "toast-top-right", "", 1000L),
+      Notification("", "Sports", "rooney and everton", "rooney everton", "success", "toast-top-right", "", 1000L),
+      Notification("", "Sports", "Transfer & Gossip", "transfer gossip", "success", "toast-top-right", "", 1000L),
+      Notification("", "Sports", "Iker Casillas", "iker casillas", "success", "toast-top-right", "", 1000L),
       Notification("", "Financial", "Click on  billionaires news", " billionaire success", "error", "toast-bottom-right", "", 2000L),
       Notification("", "Financial", "Tips and tricks for success", "success tricks tips", "warning", "toast-top-right", "", 3000L),
       Notification("", "Financial", "More greece news", "greece euro merkel ", "success", "toast-top-right", "", 1000L),
@@ -94,6 +99,7 @@ class SuiteNotifierActor extends TestKit(ActorSystem("NotifierActorTest")) with 
       Notification("", "Financial", "England sports", "news uk", "error", "toast-bottom-right", "", 2000L),
       Notification("", "Financial", "travel, places and more", "travel places", "info", "toast-top-right", "", 3000L),
       Notification("", "Financial", "Manchester news", "manutd Schweinsteiger Romero De Gea Rooney manchester", "success", "toast-top-right", "", 1000L),
+      Notification("", "Financial", "Tom hayes jailed", "trader libor", "success", "toast-top-right", "", 1000L),
       Notification("", "General", "Stories on Terrorism", "Terrorism yemen tunisia ISIS attack", "error", "toast-top-right", "", 1000L))
 
     import curiouscompanion.repository._
