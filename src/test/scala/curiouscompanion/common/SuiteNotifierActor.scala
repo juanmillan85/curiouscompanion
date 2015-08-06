@@ -70,7 +70,7 @@ class SuiteNotifierActor extends TestKit(ActorSystem("NotifierActorTest")) with 
       Notification("", "Sports", "Cricket news", "cricket Steven Finn", "error", "toast-bottom-right", "", 2000L),
       Notification("", "Sports", "England football news", "chelsea manchester arsenal premier league manutd", "warning", "toast-top-right", "", 3000L),
       Notification("", "Sports", "Baseball", "ny baseball", "success", "toast-top-right", "", 1000L),
-      Notification("", "Sports", "Special Olympics", "specialolympics LA2015 ", "error", "toast-bottom-right", "", 3000L),
+      Notification("", "Sports", "Special Olympics", "specialolympics LA2015", "error", "toast-bottom-right", "", 3000L),
       Notification("", "Sports", "Basketball", "baseketball lakers knicks", "warning", "toast-top-right", "", 2000L),
       Notification("", "Sports", "Click to see news about Falcao", "falcao chelsea", "info", "toast-top-right", "", 1000L),
       Notification("", "Sports", "Champions pics", "champions winner gold", "warning", "toast-top-right", "", 3000L),
@@ -100,6 +100,8 @@ class SuiteNotifierActor extends TestKit(ActorSystem("NotifierActorTest")) with 
       Notification("", "Financial", "travel, places and more", "travel places", "info", "toast-top-right", "", 3000L),
       Notification("", "Financial", "Manchester news", "manutd Schweinsteiger Romero De Gea Rooney manchester", "success", "toast-top-right", "", 1000L),
       Notification("", "Financial", "Tom hayes jailed", "trader libor", "success", "toast-top-right", "", 1000L),
+      
+       Notification("", "Fashion", "Tom hayes jailed", "trader libor", "success", "toast-top-right", "", 1000L),
       Notification("", "General", "Stories on Terrorism", "Terrorism yemen tunisia ISIS attack", "error", "toast-top-right", "", 1000L))
 
     import curiouscompanion.repository._

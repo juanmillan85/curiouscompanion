@@ -19,12 +19,15 @@ libraryDependencies ++= {
     "com.typesafe.akka" %% "akka-actor" % akkaV,
     "com.typesafe.akka" %% "akka-testkit" % akkaV,
     "com.typesafe.akka" %% "akka-persistence-experimental" % akkaV,
+    "com.typesafe.akka" %% "akka-slf4j" % akkaV,
+    
       // redis connector
   	"com.digital-achiever" %% "brando" % "3.0.0",
   	//testing
     "org.scalatest" % "scalatest_2.11" % "3.0.0-M7",
     // scalacheck
-    "org.scalacheck" % "scalacheck_2.11" % "1.12.4"
+    "org.scalacheck" % "scalacheck_2.11" % "1.12.4",
+    "ch.qos.logback" % "logback-classic" % "1.1.3"
     
   	
     
