@@ -53,12 +53,14 @@ class NotifierActor(topic: String) extends Actor {
          // log.debug(subscribers.size.toString())
           subscribers
             .foreach { x =>
-              //log.debug("Send to:" + topic)
-              x ! ClientMessage(topic, "{\"topic\": \"" + topic +
+              //
+	    val msg=ClientMessage(topic, "{\"topic\": \"" + topic +
                 "\",\"message\": \"" + n.message + "\",\"location\": \"" + n.location +
                 "\",\"type\": \"" + n.optionType +
                 "\",\"keyword\": \"" + n.keywords +
                 "\",\"created\": \"" + new Date().toString + "\",\"time\": " + delay + "}")
+		log.debug(msg)
+              x ! msg
             }
       }
       var id=s"$topic-not"
