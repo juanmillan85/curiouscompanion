@@ -4,8 +4,9 @@ import akka.actor.ActorRef
 
 case class Notifier(topic: String, subscribers: Set[ActorRef])
 sealed trait Message
-case class ClientMessage(sender: String, message: String) extends Message
-
+case class ClientMessage(sender: String, message: String) extends Message {
+  override def toString(): String = s"($sender,$message)";
+}
 case class Notification(id: String, topic: String, message: String, keywords: String, optionType: String, location: String, effect: String, time: Long) extends Message {
   override def toString(): String = s"($id,$message,$keywords,$optionType,$location,$time)";
 
