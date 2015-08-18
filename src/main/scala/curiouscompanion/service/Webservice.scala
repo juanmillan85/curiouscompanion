@@ -20,10 +20,10 @@ import akka.stream.scaladsl.{ Sink, Source, Flow }
 class Webservice(implicit  fm: FlowMaterializer, system: ActorSystem, notifiers: Map[String, ActorRef]) extends Directives {
   val theChat = Client.create(system,notifiers)
   import system.dispatcher
-  system.scheduler.schedule(100.seconds, 100.seconds) {
+  /*system.scheduler.schedule(100.seconds, 100.seconds) {
  
     theChat.injectMessage(ClientMessage(sender = "admin", s"Bling! The time is ${new Date().toString}."))
-  }
+  }*/
 
   def route =
     get {
