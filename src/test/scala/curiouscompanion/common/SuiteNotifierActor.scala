@@ -91,10 +91,10 @@ class SuiteNotifierActor extends TestKit(ActorSystem("NotifierActorTest")) with 
       Notification("", "Sports", "rooney and everton", "rooney everton", "success", "toast-bottom-right", "", 1000L),
       Notification("", "Sports", "Transfer & Gossip", "transfer gossip", "success", "toast-top-right", "", 1000L),
       Notification("", "Sports", "Iker Casillas", "iker casillas", "success", "toast-top-right", "", 1000L),
-      Notification("", "Financial", "Click on  billionaires news", " billionaire success", "error", "toast-bottom-right", "", 2000L),
+      Notification("", "Financial", "Click on  billionaires news", "billionaire success", "error", "toast-bottom-right", "", 2000L),
       Notification("", "Financial", "Tips and tricks for success", "success tricks tips", "warning", "toast-top-right", "", 3000L),
       Notification("", "Financial", "More greece news", "greece euro merkel", "success", "toast-top-right", "", 1000L),
-      Notification("", "Financial", "UK and US inmigration", "inmigration ", "success", "toast-bottom-right", "", 3000L),
+      Notification("", "Financial", "UK and US inmigration", "inmigration", "success", "toast-bottom-right", "", 3000L),
       Notification("", "Financial", "more on us president campaign", "clinton trump walker bush carson cruz huckabee rubio paul polls", "warning", "toast-top-right", "", 2000L),
       Notification("", "Financial", "General stock news", "price market stock", "info", "toast-top-right", "", 1000L),
       Notification("", "Financial", "Iran deal and negotiations", "iran", "warning", "toast-top-right", "", 3000L),
@@ -148,7 +148,7 @@ class SuiteNotifierActor extends TestKit(ActorSystem("NotifierActorTest")) with 
     }
     it("general options") {
 
-      var subscribers = Set.empty[ActorRef]
+/*      var subscribers = Set.empty[ActorRef]
 
       var typeMessages = List("error", "info", "success", "warning")
       var positions = List("toast-top-right", "toast-bottom-right", "toast-bottom-left")
@@ -198,7 +198,7 @@ class SuiteNotifierActor extends TestKit(ActorSystem("NotifierActorTest")) with 
         case Success(map) => map.foreach(println(_))
         case Failure(t)   => println("An error has occured: " + t.getMessage)
       }
-
+*/
     }
 
   }
