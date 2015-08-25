@@ -51,18 +51,18 @@ class SuiteNotifierActor extends TestKit(ActorSystem("NotifierActorTest")) with 
       Notification("", "General", "Find news about the Iraq inquiry", "chilcot", "error", "toast-top-right", "", 1000L),
       Notification("", "General", "Mexico vs Donald trump", "mexico donald trump", "warning", "toast-bottom-right", "", 1000L),
       Notification("", "General", "nice pics", "animal photo pet underwater", "info", "toast-top-right", "", 2000L),
-       Notification("", "General", "When will this end?", "seaworld whales blackfish orcas", "warning", "toast-bottom-left", "", 3000L),
+      Notification("", "General", "When will this end?", "seaworld whales blackfish orcas", "warning", "toast-bottom-left", "", 3000L),
       Notification("", "General", "Planing your vacations. Some news about tourism", "tourism beaches hotels airline", "info", "toast-top-right", "", 3000L),
-     Notification("", "General", "Devastation in Orient", "china explosions tianjin", "info", "toast-top-right", "", 3000L),
+      Notification("", "General", "Devastation in Orient", "china explosions tianjin", "info", "toast-top-right", "", 3000L),
       Notification("", "General", "Tech Stories", "Google Yahoo Facebook Microsoft Mozilla Twitter Oracle apps", "info", "toast-top-right", "", 2000L),
       Notification("", "General", "travel, places and more", "travel places", "info", "toast-top-right", "", 2000L),
       Notification("", "General", "Sciences & Research", "research science geo", "warning", "toast-bottom-right", "", 2000L),
-       Notification("", "General", "Breast reduction?", "modern family", "warning", "toast-bottom-right", "", 2000L),
-        Notification("", "General", "Two things are infinite: human stupidity and...", "galaxies earth nasa satellite asteroid universe", "error", "toast-bottom-right", "", 2000L),
+      Notification("", "General", "Breast reduction?", "modern family", "warning", "toast-bottom-right", "", 2000L),
+      Notification("", "General", "Two things are infinite: human stupidity and...", "galaxies earth nasa satellite asteroid universe", "error", "toast-bottom-right", "", 2000L),
       Notification("", "General", "Ebola stories", "ebola", "error", "toast-bottom-right", "", 2000L),
       Notification("", "General", "Sexy, funny, accessible, enigmatic. Who was she?", "Marilyn Monroe", "warning", "toast-bottom-left", "", 2000L),
-       Notification("", "General", "The only escape from the miseries of life are music and ....", "cats kitten", "warning", "toast-bottom-left", "", 4000L),
-      
+      Notification("", "General", "The only escape from the miseries of life are music and ....", "cats kitten", "warning", "toast-bottom-left", "", 4000L),
+
       Notification("", "General", "Lion stories. Who killed Cecil?", "lion cecil", "error", "toast-bottom-right", "", 2000L),
       Notification("", "General", "Economic news", "debt revenue deficit tax income", "info", "toast-top-right", "", 1000L),
       Notification("", "General", "more on us president campaign", "clinton trump walker bush carson cruz huckabee rubio paul polls", "warning", "toast-bottom-right", "", 2000L),
@@ -76,52 +76,72 @@ class SuiteNotifierActor extends TestKit(ActorSystem("NotifierActorTest")) with 
       Notification("", "General", "Travel & Holidays", "relax holiday dreaming", "info", "toast-bottom-right", "", 3000L),
       Notification("", "General", "Labour 'annihilation'?", "labour jeremy corbyn", "info", "toast-top-right", "", 2000L),
       Notification("", "General", "Shoreham. What happened'?", "Shoreham air disaster", "warning", "toast-bottom-right", "", 4000L),
-        Notification("", "General", "News about london's most important public transport", "tube strike", "success", "toast-bottom-left", "", 2000L),
-Notification("", "General", "20 years ago..", "windows 95 microsoft", "error", "toast-bottom-left", "", 3000L),
-        Notification("", "General", "is this the end?", "one direction", "warning", "toast-bottom-right", "", 3000L),
-        Notification("", "General", "A dark day ...", "blackmonday", "error", "toast-bottom-left", "", 4000L),
-        Notification("", "General", "Hope for mankind", "vaccine flu", "success", "toast-top-right", "",2000L),
-         Notification("", "General", "A big ice chunk", "greenland", "warning", "toast-bottom-right", "",2000L),
-       
-       
+      Notification("", "General", "News about london's most important public transport", "tube strike", "success", "toast-bottom-left", "", 2000L),
+      Notification("", "General", "20 years ago..", "windows 95 microsoft", "error", "toast-bottom-left", "", 3000L),
+      Notification("", "General", "is this the end?", "one direction", "warning", "toast-bottom-right", "", 3000L),
+      Notification("", "General", "A dark day ...", "blackmonday", "error", "toast-bottom-left", "", 4000L),
+      Notification("", "General", "Hope for mankind", "vaccine flu", "success", "toast-top-right", "", 2000L),
+      Notification("", "General", "A big ice chunk...", "greenland", "warning", "toast-bottom-right", "", 2000L),
+      Notification("", "General", "Find more news about World Athletics Championships", "World Championships Beijing2015", "success", "toast-bottom-left", "", 2000L),
+      Notification("", "General", "Stories on Terrorism", "Terrorism yemen tunisia ISIS attack", "error", "toast-top-right", "", 1000L),
+
       //sports
       Notification("", "Sports", "Find more news about Cricket", "cricket Steven Finn", "error", "toast-bottom-right", "", 2000L),
       Notification("", "Sports", "England football news", "chelsea manchester arsenal premier league manutd", "warning", "toast-top-right", "", 3000L),
-      Notification("", "Sports", "Baseball", "ny baseball", "success", "toast-top-right", "", 1000L),
-      Notification("", "Sports", "Special Olympics", "specialolympics LA2015", "error", "toast-bottom-right", "", 3000L),
+      Notification("", "Sports", "Baseball", "yankees baseball", "success", "toast-top-right", "", 1000L),
+      Notification("", "Sports", "Special Olympics", "specialolympics LA2015", "error", "toast-bottom-left", "", 3000L),
       Notification("", "Sports", "Basketball", "baseketball lakers knicks", "warning", "toast-top-right", "", 2000L),
       Notification("", "Sports", "Click to see news about Falcao", "falcao chelsea", "info", "toast-top-right", "", 1000L),
-      Notification("", "Sports", "Champions pics", "champions winner gold", "warning", "toast-bottom-right", "", 3000L),
-      Notification("", "Sports", "Tour the france", "nairo quintana froome france", "info", "toast-top-right", "", 1000L),
+      Notification("", "Sports", "Champions pics", "champions winner gold", "warning", "toast-bottom-left", "", 3000L),
+      Notification("", "Sports", "Tour the france", "france tour quintana froome", "info", "toast-top-right", "", 1000L),
       Notification("", "Sports", "FIFA corruption", "corruption platini", "info", "toast-bottom-right", "", 2000L),
-      Notification("", "Sports", "Sports", "sports win", "error", "toast-bottom-right", "", 2000L),
+      Notification("", "Sports", "Sports", "sports win", "error", "toast-bottom-left", "", 2000L),
       Notification("", "Sports", "Kazan 2015", "kazan2015", "error", "toast-bottom-right", "", 2000L),
-      Notification("", "Sports", "Manchester news", "manutd Schweinsteiger Romero De Gea Rooney manchester", "success", "toast-top-right", "", 1000L),
+      Notification("", "Sports", "Manchester news", "manutd Schweinsteiger Rooney manchester", "success", "toast-top-right", "", 1000L),
+      Notification("", "Sports", "Find more news about World Athletics Championships", "World Championships Beijing2015", "success", "toast-bottom-left", "", 2000L),
       Notification("", "Sports", "NFL and tom brady", "tom brady nfl", "success", "toast-top-right", "", 1000L),
-      Notification("", "Sports", "Tom daley news", "tom daley", "success", "toast-top-right", "", 1000L),
-      Notification("", "Sports", "best on social media", "best", "success", "toast-bottom-right", "", 1000L),
-      Notification("", "Sports", "di maria transfer", "di maria psg", "success", "toast-top-right", "", 1000L),
-      Notification("", "Sports", "antidoping stories and news", "doping", "success", "toast-top-right", "", 1000L),
-      Notification("", "Sports", "rooney and everton", "rooney everton", "success", "toast-bottom-right", "", 1000L),
+      Notification("", "Sports", "Tom daley news", "tom daley", "success", "toast-bottom-right", "", 1000L),
+      Notification("", "Sports", "best on social media", "best", "success", "toast-bottom-left", "", 1000L),
+      Notification("", "Sports", "Welcome to france..transfer", "di maria psg", "success", "toast-bottom-right", "", 1000L),
+      Notification("", "Sports", "Antidoping stories and news", "doping", "success", "toast-top-right", "", 1000L),
+      Notification("", "Sports", "rooney and everton", "rooney everton", "success", "toast-bottom-left", "", 1000L),
+      Notification("", "Sports", "Back to Italy", "cuadrado", "success", "toast-top-right", "", 1000L),
       Notification("", "Sports", "Transfer & Gossip", "transfer gossip", "success", "toast-top-right", "", 1000L),
       Notification("", "Sports", "Iker Casillas", "iker casillas", "success", "toast-top-right", "", 1000L),
+      Notification("", "Sports", "Blues' transfers from Spain", "pedro chelsea", "warning", "toast-bottom-right", "", 1000L),
+      Notification("", "Sports", "Badboy returns to Millan", "balotelli millan", "error", "toast-bottom-left", "", 1000L),
+      Notification("", "Sports", "Cincinnati Masters", "Cincinnati Masters", "error", "toast-bottom-left", "", 1000L),
+      Notification("", "Sports", "Arsenal transfers", "Edinson Cavani Cech", "error", "toast-bottom-left", "", 1000L),
+
       Notification("", "Sports", "Tragedy", "indycar", "error", "toast-bottom-left", "", 1000L),
       Notification("", "Financial", "Click on  billionaires news", "billionaire success", "error", "toast-bottom-right", "", 2000L),
       Notification("", "Financial", "Tips and tricks for success", "success tricks tips", "warning", "toast-top-right", "", 3000L),
-      Notification("", "Financial", "More greece news", "greece euro merkel", "success", "toast-top-right", "", 1000L),
+      Notification("", "Financial", "More greece news", "greece euro merkel", "info", "toast-top-right", "", 1000L),
       Notification("", "Financial", "UK and US inmigration", "inmigration", "success", "toast-bottom-right", "", 3000L),
       Notification("", "Financial", "more on us president campaign", "clinton trump walker bush carson cruz huckabee rubio paul polls", "warning", "toast-top-right", "", 2000L),
-      Notification("", "Financial", "General stock news", "price market stock", "info", "toast-top-right", "", 1000L),
+      Notification("", "Financial", "General stock news", "price market stock", "error", "toast-bottom-left", "", 1000L),
+
+      Notification("", "Financial", "Cashtags", "$AMZN $MSFT", "success", "toast-bottom-right", "", 3000L),
       Notification("", "Financial", "Iran deal and negotiations", "iran", "warning", "toast-top-right", "", 3000L),
       Notification("", "Financial", "Economic news", "debt revenue deficit tax income", "info", "toast-top-right", "", 1000L),
       Notification("", "Financial", "Calais migrant crisis", "calais migrant", "info", "toast-top-right", "", 2000L),
       Notification("", "Financial", "Bombs, War and Terrorism", "war hate terrorism", "error", "toast-bottom-right", "", 2000L),
       Notification("", "Financial", "travel, places and more", "travel places", "info", "toast-top-right", "", 3000L),
-      
-      Notification("", "Financial", "Tom hayes jailed", "trader libor", "success", "toast-top-right", "", 1000L),
-      
-     // Notification("", "Fashion", "Tom hayes jailed", "trader libor", "success", "toast-top-right", "", 1000L),
-      Notification("", "General", "Stories on Terrorism", "Terrorism yemen tunisia ISIS attack", "error", "toast-top-right", "", 1000L))
+      Notification("", "Financial", "north darkness!!", "north korea", "error", "toast-top-left", "", 3000L),
+      Notification("", "Financial", "A dark day ...", "blackmonday", "error", "toast-bottom-left", "", 4000L),
+      Notification("", "Financial", "Tom hayes jailed", "trader libor", "success", "toast-top-right", "", 2000L),
+      Notification("", "Financial", "Cashtags", "$SPY $YAHOO", "success", "toast-bottom-right", "", 3000L),
+      Notification("", "Financial", "Asia minor in war", "turkey kurds", "info", "toast-bottom-right", "", 4000L),
+      Notification("", "Financial", "un-happiest place on earth", "Banksy Dismaland", "error", "toast-top-right", "", 1000L),
+      Notification("", "Financial", "China depression?", "china market stocks", "error", "toast-bottom-left", "", 4000L),
+      Notification("", "Financial", "What is happenning to oil prices?", "oil", "warning", "toast-bottom-left", "", 2000L),
+      Notification("", "Financial", "Cashtags", "$AAPL $GOOG $FB", "warning", "toast-bottom-left", "", 3000L),
+      Notification("", "Financial", "Baharat", "india", "error", "toast-top-right", "", 2000L),
+      Notification("", "Financial", "Gossip, Stories and titles", "CEO CTO CIO", "info", "toast-top-right", "", 2000L),
+      Notification("", "Financial", "A state of reduced spending and increased frugality in the financial sector", "Austerity", "success", "toast-top-right", "", 2000L),
+
+      // Notification("", "Fashion", "Tom hayes jailed", "trader libor", "success", "toast-top-right", "", 1000L),
+      Notification("", "Financial", "Stories on Terrorism", "Terrorism yemen tunisia ISIS attack", "error", "toast-top-right", "", 1000L))
 
     import curiouscompanion.repository._
 
@@ -163,7 +183,7 @@ Notification("", "General", "20 years ago..", "windows 95 microsoft", "error", "
     }
     it("general options") {
 
-/*      var subscribers = Set.empty[ActorRef]
+      /*      var subscribers = Set.empty[ActorRef]
 
       var typeMessages = List("error", "info", "success", "warning")
       var positions = List("toast-top-right", "toast-bottom-right", "toast-bottom-left")
