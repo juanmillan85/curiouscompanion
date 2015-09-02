@@ -51,15 +51,16 @@ class NotifierActor(topic: String) extends Actor {
         case n: Notification =>
           //println(n)
          // log.debug(subscribers.size.toString())
-          subscribers
-            .foreach { x =>
-              //
-	    val msg = ClientMessage(topic, "{\"topic\": \"" + topic +
+           val msg = ClientMessage(topic, "{\"topic\": \"" + topic +
                 "\",\"message\": \"" + n.message + "\",\"location\": \"" + n.location +
                 "\",\"type\": \"" + n.optionType +
                 "\",\"keyword\": \"" + n.keywords +
                 "\",\"created\": \"" + new Date().toString + "\",\"time\": " + delay + "}")
-		log.debug(msg.toString)
+    log.debug(msg.toString)
+          subscribers
+            .foreach { x =>
+              //
+	   
               x ! msg
             }
       }
