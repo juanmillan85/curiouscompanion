@@ -89,7 +89,6 @@ class SuiteNotifierActor extends TestKit(ActorSystem("NotifierActorTest")) with 
       Notification("", "Sports", "Find more news about Cricket", "cricket Steven Finn", "error", "toast-bottom-right", "", 2000L),
       Notification("", "Sports", "England football news", "chelsea manchester arsenal premier league manutd", "warning", "toast-top-right", "", 3000L),
       Notification("", "Sports", "Baseball", "yankees baseball", "success", "toast-top-right", "", 1000L),
-      Notification("", "Sports", "Special Olympics", "specialolympics LA2015", "error", "toast-bottom-left", "", 3000L),
       Notification("", "Sports", "Basketball", "baseketball lakers knicks", "warning", "toast-top-right", "", 2000L),
       Notification("", "Sports", "Click to see news about Falcao", "falcao chelsea", "info", "toast-top-right", "", 1000L),
       Notification("", "Sports", "Champions pics", "champions winner gold", "warning", "toast-bottom-left", "", 3000L),
